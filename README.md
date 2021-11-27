@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aditya
-- 👀 I’m interested in Web development and game development
+- 👀 I’m interested in Logical coding, competitive coding and software development
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me -> adityatrivedi612@gmail.com
