@@ -14,8 +14,7 @@ Want to Collab?
 
 <a href="mailto:addacoding01@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/inipagi/job-seeker/256/mail-icon.png" alt="Collab" height="217px" width="217px" ></a>
 
-<!-- <img align="right" height="375" width="375" alt="" src="https://github.com/Yuvadi29/Yuvadi29/blob/main/coder.gif" /> -->
-<a href="https://app.daily.dev/aditya17"><img align="right" src="https://api.daily.dev/devcards/285dba548e4147c782f0e94fc89edeff.png?r=wkk" width="400" alt="Aditya Trivedi's Dev Card"/></a>
+<a href="https://app.daily.dev/aditya17"><img align="right" src="https://api.daily.dev/devcards/285dba548e4147c782f0e94fc89edeff.png?r=3et" width="400" alt="Aditya Trivedi's Dev Card"/></a>
 
 ### Let's Talk about My Skills:
 
