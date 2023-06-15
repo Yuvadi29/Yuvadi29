@@ -10,7 +10,7 @@
 ✉️ &nbsp; You can send me an email at letstalkaditya@gmail.com. I'll try to respond as soon as I can.\
 📄 &nbsp;My [Résumé](https://adityatrivedi.vercel.app/) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/Yuvadi29/Yuvadi29/main/developer.gif" height="350" width="350" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/Yuvadi29/Yuvadi29/main/developer.gif" height="auto" width="350" align="right"/>
 
 ### ⚙️ &nbsp;My Tech Stack
 
