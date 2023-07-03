@@ -34,4 +34,7 @@
   <a href="mailto:letstalkaditya@gmail.com"><img src="https://img.shields.io/badge/-letstalkaditya@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://instagram.com/@_coding_adda"><img src="https://img.shields.io/badge/-@_coding_adda-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   <a href="https://youtube.com/@coding_adda"><img src="https://img.shields.io/badge/-@coding_adda-c4302b?style=flat&logo=Youtube&logoColor=white"/></a>
+    <a href="https://github.com/Yuvadi29">
+    <img src="https://komarev.com/ghpvc/?username=Yuvadi29&label=Profile Views" alt="page views" />
+    </a>
 </p>
