@@ -1,5 +1,4 @@
-## Hey 👋, ![Aditya](https://raw.githubusercontent.com/Yuvadi29/Yuvadi29/main/Github%20Banner.png)
-
+## Hey 👋, ![Aditya](https://github.com/Yuvadi29/Yuvadi29/assets/80524895/d356775a-b2d6-4dd1-9f5b-41b14cd9054c)
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I like to explore data science and Machine Learning and develop solutions.\
