@@ -125,5 +125,5 @@
         />
     </a>
 </p>
----
-![](https://komarev.com/ghpvc/?username=Yuvadi29&color=blue&style=flat&label=Profile+Views&base=1000)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Yuvadi29&color=blue&style=flat&label=Profile+Views&base=1000)
