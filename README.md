@@ -60,7 +60,7 @@
 ![Bash](https://skillicons.dev/icons?i=bash)
 
 #### Video Editing
-![Adobe Premiere Pro](https://skillicons.dev/icons?i=ap)
+![Adobe Premiere Pro](https://skillicons.dev/icons?i=pr)
 ![Adobe After Effects](https://skillicons.dev/icons?i=ae)
 
 #### Operating System
