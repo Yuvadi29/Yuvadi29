@@ -58,6 +58,7 @@
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![GraphQl](https://skillicons.dev/icons?i=graphql)
 ![Bash](https://skillicons.dev/icons?i=bash)
+![AWS](https://skillicons.dev/icons?i=aws)
 
 #### Video Editing
 ![Adobe Premiere Pro](https://skillicons.dev/icons?i=pr)
