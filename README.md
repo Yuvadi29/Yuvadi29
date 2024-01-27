@@ -9,7 +9,7 @@
 ✉️ &nbsp; I believe in the power of contributing to the community via Open Source Projects and Tutorials on YouTube.\
 📄 &nbsp;My [Resume](ADITYA-TRIVEDI.pdf) for more details about me. I'm open to feedback and suggestions!
 
-### ⚙️ &nbsp;Checkout My Tech Stack
+### ⚙️ &nbsp;My Tech Stack
 #### Programming Languages
 
 ![C](https://skillicons.dev/icons?i=c)
