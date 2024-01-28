@@ -4,7 +4,7 @@
 
 💡 &nbsp; Passionate about MERN-Stack Development & Problem Solving.\
 🧠 &nbsp; Diving Deeper into the world of DevOps and upcoming JavaScript Frameworks.\
-✍️ &nbsp; Side Hustling in Content Creation on my Youtube Channel - **Coding Adda**.\
+✍️ &nbsp; Side Hustling in Content Creation on my Youtube Channel - **[Coding Adda](https://www.youtube.com/@Coding_adda)**.\
 🧑‍🏭 &nbsp; Skilled in Web-Testing including API testing on Postman.\
 ✉️ &nbsp; I believe in the power of contributing to the community via Open Source Projects and Tutorials on YouTube.\
 📄 &nbsp;My [Resume](ADITYA-TRIVEDI.pdf) for more details about me. I'm open to feedback and suggestions!
