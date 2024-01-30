@@ -1,6 +1,6 @@
 ## Hey 👋, ![Aditya](https://github.com/Yuvadi29/Yuvadi29/assets/80524895/d356775a-b2d6-4dd1-9f5b-41b14cd9054c)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=🚀MERN-Stack+Developer;🎙️Podcaster;📷Content-Creator;👋Nice+to+meet+you...)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=🚀MERN-Stack+Developer;🎙️Podcaster;📷Content-Creator;🎤Speaker;👋Nice+to+meet+you...)
 
 💡 &nbsp; Passionate about MERN-Stack Development & Problem Solving.\
 🧠 &nbsp; Diving Deeper into the world of DevOps and upcoming JavaScript Frameworks.\
