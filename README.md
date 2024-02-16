@@ -10,7 +10,7 @@
 📄 &nbsp;My [Resume](ADITYA-TRIVEDI.pdf) for more details about me. I'm open to feedback and suggestions!
 
 ### ⚙️ &nbsp;My Tech Stack
-#### Programming Languages
+#### Programming Languages 
 
 ![C](https://skillicons.dev/icons?i=c)
 ![HTML5](https://skillicons.dev/icons?i=html)
