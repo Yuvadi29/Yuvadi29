@@ -1,4 +1,4 @@
-## Hey 👋 ![Aditya](https://github.com/Yuvadi29/Yuvadi29/assets/80524895/d356775a-b2d6-4dd1-9f5b-41b14cd9054c)
+## Hey 👋  ![Aditya](https://github.com/Yuvadi29/Yuvadi29/assets/80524895/d356775a-b2d6-4dd1-9f5b-41b14cd9054c)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=🚀MERN-Stack+Developer;🎙️Podcaster;📷Content-Creator;🎤Speaker;👋Nice+to+meet+you...)
 
