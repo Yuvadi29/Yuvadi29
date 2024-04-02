@@ -87,12 +87,6 @@
 
 
 <p align="center">
-    <!-- Streak Stats -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvadi29&theme=algolia&include_all_commits=true" alt="GitHub Streak" />
-</p>
-
-
-<p align="center">
     <!-- Profile Summary Card -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuvadi29&theme=algolia" alt="Profile Summary Card" />
 </p>
@@ -101,6 +95,10 @@
     <!-- Trophy Stats -->
     <img src="https://github-profile-trophy.vercel.app/?username=Yuvadi29&theme=tokyonight" alt="GitHub Trophies" />
 </p>
+
+#### 📕Latest Blog Posts
+<!-- Blog Post List: Start -->
+<!-- Blog Post List: End -->
 
 ### 👋 &nbsp;Let's Connect
 <p align="center">
