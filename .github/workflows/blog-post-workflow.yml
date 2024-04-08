@@ -11,6 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: Yuvadi29/Yuvadi29/blog-post-workflow@master
+      - uses: Yuvadi29/Yuvadi29/blog-post-workflow@main
         with:
           feed_list: "https://codingadda.hashnode.dev/"
