@@ -69,6 +69,8 @@
 
 ![Linux](https://skillicons.dev/icons?i=linux)
 
+<!--START_SECTION:activity-->
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
