@@ -101,7 +101,14 @@
 <!-- Blog Post List: END -->
 
 #### 📕Latest Youtube Videos
-<!-- YOUTUBE-VIDEOS-LIST:START -->
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=-qOokEq7ATg"><img width="140px" src="https://i.ytimg.com/vi/-qOokEq7ATg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=-qOokEq7ATg">Create a WOW Website using these Technologies | GSAP, Three.js, Framer-Motion</a> (Apr 5, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=L2xE7LCv-mI"><img width="140px" src="https://i.ytimg.com/vi/L2xE7LCv-mI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=L2xE7LCv-mI">Full Stack MERN Auth Project Part 1 | ReactJs, NodeJs, ExpressJs, MongoDB, JWT, Cookies, Redux</a> (Apr 2, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=KXnVwUynm-Q"><img width="140px" src="https://i.ytimg.com/vi/KXnVwUynm-Q/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=KXnVwUynm-Q">Team formation and Time Management in Hackathon | Complete Guide</a> (Mar 22, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=4rIW_B77is0"><img width="140px" src="https://i.ytimg.com/vi/4rIW_B77is0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=4rIW_B77is0">How to Pitch during Pitching Round in Hackathon ? | Complete Explaination 🔥🔥</a> (Mar 21, 2024)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### 👋 &nbsp;Let's Connect
