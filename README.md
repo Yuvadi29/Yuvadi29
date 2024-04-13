@@ -97,8 +97,12 @@
 </p>
 
 #### 📕Latest Blog Posts
-<!-- Blog Post List: Start -->
-<!-- Blog Post List: End -->
+<!-- Blog Post List: START -->
+<!-- Blog Post List: END -->
+
+#### 📕Latest Youtube Videos
+<!-- Youtube Video List: START -->
+<!-- Youtube Video List: END -->
 
 ### 👋 &nbsp;Let's Connect
 <p align="center">
