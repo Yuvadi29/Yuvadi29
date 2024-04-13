@@ -76,5 +76,5 @@ jobs:
                 </tr>
               </tbody>
             </table>
-          ```
+          # ```
           description_max_length: 140
