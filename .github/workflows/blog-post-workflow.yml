@@ -1,4 +1,4 @@
-name: Latest Blog Post Workflow
+name: Latest Blog Post
 
 on:
   schedule:
@@ -8,13 +8,11 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blogs from Hashnode
+    name: Latest blogs from Hashnode
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository code
-        uses: actions/checkout@v3
-
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
       - name: Run blog post workflow
-        uses: Yuvadi29/Yuvadi29/blob/main/.github/workflows/blog-post-workflow.yml@main
         with:
           feed_list: "https://codingadda.hashnode.dev/"
