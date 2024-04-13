@@ -69,7 +69,8 @@
 
 ![Linux](https://skillicons.dev/icons?i=linux)
 
-<!--START_SECTION:activity-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### ⚙️ &nbsp;GitHub Analytics
 
