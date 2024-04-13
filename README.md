@@ -112,6 +112,8 @@
 <td><a href="https://www.youtube.com/watch?v=KXnVwUynm-Q">Team formation and Time Management in Hackathon | Complete Guide</a> (Mar 22, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=4rIW_B77is0"><img width="140px" src="https://i.ytimg.com/vi/4rIW_B77is0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4rIW_B77is0">How to Pitch during Pitching Round in Hackathon ? | Complete Explaination 🔥🔥</a> (Mar 21, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=mwegJKezAMY"><img width="140px" src="https://i.ytimg.com/vi/mwegJKezAMY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=mwegJKezAMY">Importance of UI Designing in Hackathon</a> (Mar 20, 2024)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### 👋 &nbsp;Let's Connect
