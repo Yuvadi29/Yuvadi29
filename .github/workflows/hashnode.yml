@@ -20,4 +20,4 @@ jobs:
           BLOG_URL: 'https://codingadda.hashnode.dev/' # Blog URL
           COUNT: 10 # MAX Visisble
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
