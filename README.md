@@ -103,7 +103,7 @@
 <!-- HASHNODE_BLOG:START -->
 <!-- HASHNODE_BLOG:END -->
 
-#### 📕Latest Youtube Videos
+# 📸Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START --><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;"><a href="https://www.youtube.com/watch?v=-qOokEq7ATg"><img width="200px" style="border-radius: 8px;" src="https://i.ytimg.com/vi/-qOokEq7ATg/mqdefault.jpg"></a>
 <td><a href="https://www.youtube.com/watch?v=-qOokEq7ATg" style="margin-left: 12px;">Create a WOW Website using these Technologies | GSAP, Three.js, Framer-Motion</a> (Apr 5, 2024)<br/></div>
 <div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;"><a href="https://www.youtube.com/watch?v=L2xE7LCv-mI"><img width="200px" style="border-radius: 8px;" src="https://i.ytimg.com/vi/L2xE7LCv-mI/mqdefault.jpg"></a>
