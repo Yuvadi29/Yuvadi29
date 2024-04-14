@@ -17,7 +17,7 @@ jobs:
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
           USERNAME: 'CodingAdda' # Hashnode Username
-          BLOG_URL: 'https://codingadda.hashnode.dev/"' # Blog URL
+          BLOG_URL: 'https://codingadda.hashnode.dev/' # Blog URL
           COUNT: 10 # MAX Visisble
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
