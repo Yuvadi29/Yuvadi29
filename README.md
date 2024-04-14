@@ -100,8 +100,9 @@
 </p>
 
 #### 📕Latest Blog Posts
-<!-- Blog Post List: START -->
-<!-- Blog Post List: END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 #### 📕Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=-qOokEq7ATg"><img width="140px" src="https://i.ytimg.com/vi/-qOokEq7ATg/mqdefault.jpg"></a></td>
