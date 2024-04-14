@@ -15,6 +15,6 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Run blog post workflow
-        uses: Yuvadi29/Yuvadi29/tree/main/.github/workflows/blog-post-workflow@main
+        uses: Yuvadi29/Yuvadi29/blob/main/.github/workflows/blog-post-workflow.yml@main
         with:
           feed_list: "https://codingadda.hashnode.dev/"
