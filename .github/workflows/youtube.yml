@@ -1,5 +1,4 @@
 name: YouTube Videos
-
 on:
   push:
   schedule:
@@ -8,42 +7,16 @@ on:
 
 jobs:
   youtube:
-    name: Latest videos from YouTube
+    name: latest videos from YouTube
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Fetch YouTube videos
-        uses: gautamkrishnar/blog-post-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "YOUTUBE-VIDEOS-LIST"
           max_post_count: 5
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UChVzP7gNOlkymoo000Y9_6Q"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
-          template: |
-            <style>
-              .card {
-                border: 1px solid #ccc;
-                border-radius: 8px;
-                padding: 12px;
-                display: flex;
-                align-items: center;
-              }
-              .card img {
-                width: 200px;
-                border-radius: 8px;
-              }
-              .card-content {
-                margin-left: 12px;
-              }
-            </style>
-            <div class="card">
-              <a href="{{url}}">
-                <img src="{{image}}" alt="Video Thumbnail">
-              </a>
-              <div class="card-content">
-                <a href="{{url}}">{{title}}</a> ({{date}}) <br/>
-                {{description}}
-              </div>
-            </div>
+          template: '<div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;"><a href="$url"><img width="200px" style="border-radius: 8px;" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a>$newline<td><a href="$url" style="margin-left: 12px;">$title</a> ($date)<br/>$description</div>$newline'
           description_max_length: 140
