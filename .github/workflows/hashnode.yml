@@ -19,4 +19,3 @@ jobs:
           USERNAME: 'CodingAdda' # Hashnode Username
           BLOG_URL: 'https://codingadda.hashnode.dev/' # Blog URL
           COUNT: 10 # MAX Visisble
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
