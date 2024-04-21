@@ -101,6 +101,11 @@
 
 # Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [React Router DOM🔥🔥](https://codingadda.hashnode.dev/react-router-dom)
+- [Create your own Custom Hook in ReactJS🔥🔥](https://codingadda.hashnode.dev/create-your-own-custom-hook-in-reactjs)
+- [UseMemo Hook in ReactJS🔥🔥](https://codingadda.hashnode.dev/usememo-hook-in-reactjs)
+- [UseContext Hook in ReactJS🔥🔥](https://codingadda.hashnode.dev/usecontext-hook-in-reactjs)
+- [UseRef Hook in ReactJS🔥🔥](https://codingadda.hashnode.dev/useref-hook-in-reactjs)
 <!-- HASHNODE_BLOG:END -->
 
 # 📸Latest Youtube Videos
