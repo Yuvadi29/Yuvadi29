@@ -109,7 +109,9 @@
 <!-- HASHNODE_BLOG:END -->
 
 # 📸Latest Youtube Videos
-<!-- YOUTUBE-VIDEOS-LIST:START --><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;"><a href="https://www.youtube.com/watch?v=-qOokEq7ATg"><img width="200px" style="border-radius: 8px;" src="https://i.ytimg.com/vi/-qOokEq7ATg/mqdefault.jpg"></a>
+<!-- YOUTUBE-VIDEOS-LIST:START --><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;"><a href="https://www.youtube.com/watch?v=AUzFVxFuuEo"><img width="200px" style="border-radius: 8px;" src="https://i.ytimg.com/vi/AUzFVxFuuEo/mqdefault.jpg"></a>
+<td><a href="https://www.youtube.com/watch?v=AUzFVxFuuEo" style="margin-left: 12px;">Project Ideas to Get Hired as a Junior Developer</a> (Apr 23, 2024)<br/></div>
+<div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;"><a href="https://www.youtube.com/watch?v=-qOokEq7ATg"><img width="200px" style="border-radius: 8px;" src="https://i.ytimg.com/vi/-qOokEq7ATg/mqdefault.jpg"></a>
 <td><a href="https://www.youtube.com/watch?v=-qOokEq7ATg" style="margin-left: 12px;">Create a WOW Website using these Technologies | GSAP, Three.js, Framer-Motion</a> (Apr 5, 2024)<br/></div>
 <div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;"><a href="https://www.youtube.com/watch?v=L2xE7LCv-mI"><img width="200px" style="border-radius: 8px;" src="https://i.ytimg.com/vi/L2xE7LCv-mI/mqdefault.jpg"></a>
 <td><a href="https://www.youtube.com/watch?v=L2xE7LCv-mI" style="margin-left: 12px;">Full Stack MERN Auth Project Part 1 | ReactJs, NodeJs, ExpressJs, MongoDB, JWT, Cookies, Redux</a> (Apr 2, 2024)<br/></div>
@@ -117,8 +119,6 @@
 <td><a href="https://www.youtube.com/watch?v=KXnVwUynm-Q" style="margin-left: 12px;">Team formation and Time Management in Hackathon | Complete Guide</a> (Mar 22, 2024)<br/></div>
 <div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;"><a href="https://www.youtube.com/watch?v=4rIW_B77is0"><img width="200px" style="border-radius: 8px;" src="https://i.ytimg.com/vi/4rIW_B77is0/mqdefault.jpg"></a>
 <td><a href="https://www.youtube.com/watch?v=4rIW_B77is0" style="margin-left: 12px;">How to Pitch during Pitching Round in Hackathon ? | Complete Explaination 🔥🔥</a> (Mar 21, 2024)<br/></div>
-<div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;"><a href="https://www.youtube.com/watch?v=mwegJKezAMY"><img width="200px" style="border-radius: 8px;" src="https://i.ytimg.com/vi/mwegJKezAMY/mqdefault.jpg"></a>
-<td><a href="https://www.youtube.com/watch?v=mwegJKezAMY" style="margin-left: 12px;">Importance of UI Designing in Hackathon</a> (Mar 20, 2024)<br/></div>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### 👋 &nbsp;Let's Connect
