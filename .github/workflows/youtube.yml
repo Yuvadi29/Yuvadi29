@@ -18,9 +18,12 @@ jobs:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UChVzP7gNOlkymoo000Y9_6Q"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
-          template: `<div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;"><a href="$url"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a><div style="flex-grow: 1; text-align: center;">
-    <a href="$url" style="display: block; font-weight: bold; margin-bottom: 6px;">$title</a> ($date)<br/>
-    $description
-  </div>
-</div>`
+          template: |
+            <div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
+              <a href="$url"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a>
+              <div style="flex-grow: 1; text-align: center;">
+                <a href="$url" style="display: block; font-weight: bold; margin-bottom: 6px;">$title</a> ($date)<br/>
+                $description
+              </div>
+            </div>
           description_max_length: 140
