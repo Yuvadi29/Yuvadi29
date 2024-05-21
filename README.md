@@ -110,6 +110,12 @@
 
 # 📸Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START --><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
+  <a href="https://www.youtube.com/watch?v=5mx_ZSQPzhs"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/5mx_ZSQPzhs/mqdefault.jpg"></a>
+  <div style="flex-grow: 1; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=5mx_ZSQPzhs" style="display: block; font-weight: bold; margin-bottom: 6px;">10 Habits of Successfull Programmers</a> (May 21, 2024)<br/>
+    
+  </div>
+</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
   <a href="https://www.youtube.com/watch?v=HAnGwfs3oJ8"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/HAnGwfs3oJ8/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=HAnGwfs3oJ8" style="display: block; font-weight: bold; margin-bottom: 6px;">From a Tier 3 College to a 6 LPA Package as a Software Tester ft. Manaswi Jadhav - Episode 9</a> (May 14, 2024)<br/>
@@ -131,12 +137,6 @@
   <a href="https://www.youtube.com/watch?v=-qOokEq7ATg"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/-qOokEq7ATg/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=-qOokEq7ATg" style="display: block; font-weight: bold; margin-bottom: 6px;">Create a WOW Website using these Technologies | GSAP, Three.js, Framer-Motion</a> (Apr 5, 2024)<br/>
-    
-  </div>
-</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=L2xE7LCv-mI"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/L2xE7LCv-mI/mqdefault.jpg"></a>
-  <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=L2xE7LCv-mI" style="display: block; font-weight: bold; margin-bottom: 6px;">Full Stack MERN Auth Project Part 1 | ReactJs, NodeJs, ExpressJs, MongoDB, JWT, Cookies, Redux</a> (Apr 2, 2024)<br/>
     
   </div>
 </div><!-- YOUTUBE-VIDEOS-LIST:END -->
