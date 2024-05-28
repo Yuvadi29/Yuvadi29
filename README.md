@@ -112,6 +112,12 @@
 
 # 📸Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START --><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
+  <a href="https://www.youtube.com/watch?v=lcGhdWdgqe4"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/lcGhdWdgqe4/mqdefault.jpg"></a>
+  <div style="flex-grow: 1; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=lcGhdWdgqe4" style="display: block; font-weight: bold; margin-bottom: 6px;">BEST UI/Design Guide 2024 ft Riddhi Chavda - Episode 10</a> (May 28, 2024)<br/>
+    
+  </div>
+</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
   <a href="https://www.youtube.com/watch?v=5mx_ZSQPzhs"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/5mx_ZSQPzhs/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=5mx_ZSQPzhs" style="display: block; font-weight: bold; margin-bottom: 6px;">10 Habits of Successfull Programmers</a> (May 21, 2024)<br/>
@@ -133,12 +139,6 @@
   <a href="https://www.youtube.com/watch?v=AUzFVxFuuEo"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/AUzFVxFuuEo/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=AUzFVxFuuEo" style="display: block; font-weight: bold; margin-bottom: 6px;">Project Ideas to Get Hired as a Junior Developer</a> (Apr 23, 2024)<br/>
-    
-  </div>
-</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=-qOokEq7ATg"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/-qOokEq7ATg/mqdefault.jpg"></a>
-  <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=-qOokEq7ATg" style="display: block; font-weight: bold; margin-bottom: 6px;">Create a WOW Website using these Technologies | GSAP, Three.js, Framer-Motion</a> (Apr 5, 2024)<br/>
     
   </div>
 </div><!-- YOUTUBE-VIDEOS-LIST:END -->
