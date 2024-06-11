@@ -112,6 +112,12 @@
 
 # 📸Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START --><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
+  <a href="https://www.youtube.com/watch?v=bv40XCXwK0s"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/bv40XCXwK0s/mqdefault.jpg"></a>
+  <div style="flex-grow: 1; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=bv40XCXwK0s" style="display: block; font-weight: bold; margin-bottom: 6px;">How we organize our lives as a software engineer using Notion ?</a> (Jun 11, 2024)<br/>
+    
+  </div>
+</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
   <a href="https://www.youtube.com/watch?v=olo5kYeAf4c"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/olo5kYeAf4c/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=olo5kYeAf4c" style="display: block; font-weight: bold; margin-bottom: 6px;">Best CHATGPT Resume Prompt Ideas | Use AI to Make our Resume</a> (Jun 7, 2024)<br/>
@@ -133,12 +139,6 @@
   <a href="https://www.youtube.com/watch?v=HAnGwfs3oJ8"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/HAnGwfs3oJ8/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=HAnGwfs3oJ8" style="display: block; font-weight: bold; margin-bottom: 6px;">From a Tier 3 College to a 6 LPA Package as a Software Tester ft. Manaswi Jadhav - Episode 9</a> (May 14, 2024)<br/>
-    
-  </div>
-</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=7cXfG0dIZoM"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/7cXfG0dIZoM/mqdefault.jpg"></a>
-  <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=7cXfG0dIZoM" style="display: block; font-weight: bold; margin-bottom: 6px;">Create a Professional GitHub Readme Profile 🧑‍💻&lpar;Step by Step&rpar;</a> (May 7, 2024)<br/>
     
   </div>
 </div><!-- YOUTUBE-VIDEOS-LIST:END -->
