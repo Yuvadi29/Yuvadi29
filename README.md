@@ -112,6 +112,12 @@
 
 # 📸Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START --><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
+  <a href="https://www.youtube.com/watch?v=cD7jtICA4ps"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/cD7jtICA4ps/mqdefault.jpg"></a>
+  <div style="flex-grow: 1; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=cD7jtICA4ps" style="display: block; font-weight: bold; margin-bottom: 6px;">Create A REST API Without Server 🔥🔥</a> (Jun 14, 2024)<br/>
+    
+  </div>
+</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
   <a href="https://www.youtube.com/watch?v=bv40XCXwK0s"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/bv40XCXwK0s/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=bv40XCXwK0s" style="display: block; font-weight: bold; margin-bottom: 6px;">How we organize our lives as a software engineer using Notion ?</a> (Jun 11, 2024)<br/>
@@ -133,12 +139,6 @@
   <a href="https://www.youtube.com/watch?v=5mx_ZSQPzhs"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/5mx_ZSQPzhs/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=5mx_ZSQPzhs" style="display: block; font-weight: bold; margin-bottom: 6px;">10 Habits of Successfull Programmers</a> (May 21, 2024)<br/>
-    
-  </div>
-</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=HAnGwfs3oJ8"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/HAnGwfs3oJ8/mqdefault.jpg"></a>
-  <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=HAnGwfs3oJ8" style="display: block; font-weight: bold; margin-bottom: 6px;">From a Tier 3 College to a 6 LPA Package as a Software Tester ft. Manaswi Jadhav - Episode 9</a> (May 14, 2024)<br/>
     
   </div>
 </div><!-- YOUTUBE-VIDEOS-LIST:END -->
