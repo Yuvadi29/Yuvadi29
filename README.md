@@ -112,6 +112,12 @@
 
 # 📸Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START --><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
+  <a href="https://www.youtube.com/watch?v=YxKkDG1nqio"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/YxKkDG1nqio/mqdefault.jpg"></a>
+  <div style="flex-grow: 1; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=YxKkDG1nqio" style="display: block; font-weight: bold; margin-bottom: 6px;">No Interest in Coding? Top 5 Non-Tech Placements [upto 25LPA] | Non Tech Job Roles 2024</a> (Jun 18, 2024)<br/>
+    
+  </div>
+</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
   <a href="https://www.youtube.com/watch?v=cD7jtICA4ps"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/cD7jtICA4ps/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=cD7jtICA4ps" style="display: block; font-weight: bold; margin-bottom: 6px;">Create A REST API Without Server 🔥🔥</a> (Jun 14, 2024)<br/>
@@ -133,12 +139,6 @@
   <a href="https://www.youtube.com/watch?v=lcGhdWdgqe4"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/lcGhdWdgqe4/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=lcGhdWdgqe4" style="display: block; font-weight: bold; margin-bottom: 6px;">BEST UI/Design Guide 2024 ft Riddhi Chavda - Episode 10</a> (May 28, 2024)<br/>
-    
-  </div>
-</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=5mx_ZSQPzhs"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/5mx_ZSQPzhs/mqdefault.jpg"></a>
-  <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=5mx_ZSQPzhs" style="display: block; font-weight: bold; margin-bottom: 6px;">10 Habits of Successfull Programmers</a> (May 21, 2024)<br/>
     
   </div>
 </div><!-- YOUTUBE-VIDEOS-LIST:END -->
