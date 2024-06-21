@@ -126,7 +126,7 @@
 </div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
   <a href="https://www.youtube.com/watch?v=bv40XCXwK0s"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/bv40XCXwK0s/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=bv40XCXwK0s" style="display: block; font-weight: bold; margin-bottom: 6px;">How we organize our lives as a software engineer using Notion ?</a> (Jun 11, 2024)<br/>
+    <a href="https://www.youtube.com/watch?v=bv40XCXwK0s" style="display: block; font-weight: bold; margin-bottom: 6px;">How we organize our lives as a software engineer using Notion !</a> (Jun 11, 2024)<br/>
     
   </div>
 </div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
