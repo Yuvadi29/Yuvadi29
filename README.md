@@ -112,6 +112,12 @@
 
 # 📸Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START --><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
+  <a href="https://www.youtube.com/watch?v=hpc58Ubmis0"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/hpc58Ubmis0/mqdefault.jpg"></a>
+  <div style="flex-grow: 1; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=hpc58Ubmis0" style="display: block; font-weight: bold; margin-bottom: 6px;">Building the YOUTUBE COMMENT SECTION using ReactJS</a> (Jun 22, 2024)<br/>
+    
+  </div>
+</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
   <a href="https://www.youtube.com/watch?v=YxKkDG1nqio"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/YxKkDG1nqio/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=YxKkDG1nqio" style="display: block; font-weight: bold; margin-bottom: 6px;">No Interest in Coding? Top 5 Non-Tech Placements [upto 25LPA] | Non Tech Job Roles 2024</a> (Jun 18, 2024)<br/>
@@ -133,12 +139,6 @@
   <a href="https://www.youtube.com/watch?v=olo5kYeAf4c"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/olo5kYeAf4c/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=olo5kYeAf4c" style="display: block; font-weight: bold; margin-bottom: 6px;">Best CHATGPT Resume Prompt Ideas | Use AI to Make our Resume</a> (Jun 7, 2024)<br/>
-    
-  </div>
-</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=lcGhdWdgqe4"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/lcGhdWdgqe4/mqdefault.jpg"></a>
-  <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=lcGhdWdgqe4" style="display: block; font-weight: bold; margin-bottom: 6px;">BEST UI/Design Guide 2024 ft Riddhi Chavda - Episode 10</a> (May 28, 2024)<br/>
     
   </div>
 </div><!-- YOUTUBE-VIDEOS-LIST:END -->
