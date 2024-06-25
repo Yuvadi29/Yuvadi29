@@ -112,6 +112,12 @@
 
 # 📸Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START --><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
+  <a href="https://www.youtube.com/watch?v=lQXpirInpjs"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/lQXpirInpjs/mqdefault.jpg"></a>
+  <div style="flex-grow: 1; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=lQXpirInpjs" style="display: block; font-weight: bold; margin-bottom: 6px;">Final year Placement Roadmap || Best Ever Placement Roadmap</a> (Jun 25, 2024)<br/>
+    
+  </div>
+</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
   <a href="https://www.youtube.com/watch?v=hpc58Ubmis0"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/hpc58Ubmis0/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=hpc58Ubmis0" style="display: block; font-weight: bold; margin-bottom: 6px;">Building the YOUTUBE COMMENT SECTION using ReactJS</a> (Jun 22, 2024)<br/>
@@ -133,12 +139,6 @@
   <a href="https://www.youtube.com/watch?v=bv40XCXwK0s"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/bv40XCXwK0s/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=bv40XCXwK0s" style="display: block; font-weight: bold; margin-bottom: 6px;">How we organize our lives as a software engineer using Notion !</a> (Jun 11, 2024)<br/>
-    
-  </div>
-</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=olo5kYeAf4c"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/olo5kYeAf4c/mqdefault.jpg"></a>
-  <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=olo5kYeAf4c" style="display: block; font-weight: bold; margin-bottom: 6px;">Best CHATGPT Resume Prompt Ideas | Use AI to Make our Resume</a> (Jun 7, 2024)<br/>
     
   </div>
 </div><!-- YOUTUBE-VIDEOS-LIST:END -->
