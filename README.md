@@ -112,6 +112,12 @@
 
 # 📸Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START --><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
+  <a href="https://www.youtube.com/watch?v=BOmhkIxhq7s"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/BOmhkIxhq7s/mqdefault.jpg"></a>
+  <div style="flex-grow: 1; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=BOmhkIxhq7s" style="display: block; font-weight: bold; margin-bottom: 6px;">Master UI/UX Design 2024 ft Dhruvil Trivedi - Episode 11</a> (Jun 27, 2024)<br/>
+    
+  </div>
+</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
   <a href="https://www.youtube.com/watch?v=lQXpirInpjs"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/lQXpirInpjs/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=lQXpirInpjs" style="display: block; font-weight: bold; margin-bottom: 6px;">Final year Placement Roadmap || Best Ever Placement Roadmap</a> (Jun 25, 2024)<br/>
@@ -133,12 +139,6 @@
   <a href="https://www.youtube.com/watch?v=cD7jtICA4ps"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/cD7jtICA4ps/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=cD7jtICA4ps" style="display: block; font-weight: bold; margin-bottom: 6px;">Create A REST API Without Server 🔥🔥</a> (Jun 14, 2024)<br/>
-    
-  </div>
-</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=bv40XCXwK0s"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/bv40XCXwK0s/mqdefault.jpg"></a>
-  <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=bv40XCXwK0s" style="display: block; font-weight: bold; margin-bottom: 6px;">How we organize our lives as a software engineer using Notion !</a> (Jun 11, 2024)<br/>
     
   </div>
 </div><!-- YOUTUBE-VIDEOS-LIST:END -->
