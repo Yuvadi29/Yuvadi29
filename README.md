@@ -112,15 +112,15 @@
 
 # 📸Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START --><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=_PZjzzk-Sgw"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/_PZjzzk-Sgw/mqdefault.jpg"></a>
+  <a href="https://www.youtube.com/watch?v=-de63NpbnUM"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/-de63NpbnUM/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=_PZjzzk-Sgw" style="display: block; font-weight: bold; margin-bottom: 6px;">Building an AI Content Generator with Gemini AI and the MERN Stack | Part - 2</a> (Jul 2, 2024)<br/>
+    <a href="https://www.youtube.com/watch?v=-de63NpbnUM" style="display: block; font-weight: bold; margin-bottom: 6px;">Best Chrome Extension For Developers with @dailydotdev featuring @francescociulla | Episode 12</a> (Jul 3, 2024)<br/>
     
   </div>
 </div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=-de63NpbnUM"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/-de63NpbnUM/mqdefault.jpg"></a>
+  <a href="https://www.youtube.com/watch?v=_PZjzzk-Sgw"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/_PZjzzk-Sgw/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=-de63NpbnUM" style="display: block; font-weight: bold; margin-bottom: 6px;">Best Chrome Extension For Developers with @dailydotdev featuring @francescociulla | Episode 12</a> (Jun 29, 2024)<br/>
+    <a href="https://www.youtube.com/watch?v=_PZjzzk-Sgw" style="display: block; font-weight: bold; margin-bottom: 6px;">Building an AI Content Generator with Gemini AI and the MERN Stack | Part - 2</a> (Jul 2, 2024)<br/>
     
   </div>
 </div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
