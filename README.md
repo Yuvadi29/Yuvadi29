@@ -112,6 +112,12 @@
 
 # 📸Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START --><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
+  <a href="https://www.youtube.com/watch?v=MKfoxb90-3A"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/MKfoxb90-3A/mqdefault.jpg"></a>
+  <div style="flex-grow: 1; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=MKfoxb90-3A" style="display: block; font-weight: bold; margin-bottom: 6px;">The Rise of Gaming Industry and Women in Tech ft. Kshitija Katare | Episode 13</a> (Jul 5, 2024)<br/>
+    
+  </div>
+</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
   <a href="https://www.youtube.com/watch?v=-de63NpbnUM"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/-de63NpbnUM/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=-de63NpbnUM" style="display: block; font-weight: bold; margin-bottom: 6px;">Best Chrome Extension For Developers with @dailydotdev featuring @francescociulla | Episode 12</a> (Jul 3, 2024)<br/>
@@ -133,12 +139,6 @@
   <a href="https://www.youtube.com/watch?v=BOmhkIxhq7s"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/BOmhkIxhq7s/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=BOmhkIxhq7s" style="display: block; font-weight: bold; margin-bottom: 6px;">Master UI/UX Design 2024 ft Dhruvil Trivedi - Episode 11</a> (Jun 27, 2024)<br/>
-    
-  </div>
-</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=lQXpirInpjs"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/lQXpirInpjs/mqdefault.jpg"></a>
-  <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=lQXpirInpjs" style="display: block; font-weight: bold; margin-bottom: 6px;">Final year Placement Roadmap || Best Ever Placement Roadmap</a> (Jun 25, 2024)<br/>
     
   </div>
 </div><!-- YOUTUBE-VIDEOS-LIST:END -->
