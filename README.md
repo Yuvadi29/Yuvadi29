@@ -112,6 +112,24 @@
 
 # 📸Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START --><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
+  <a href="https://www.youtube.com/watch?v=QETR5paiwxQ"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/QETR5paiwxQ/mqdefault.jpg"></a>
+  <div style="flex-grow: 1; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=QETR5paiwxQ" style="display: block; font-weight: bold; margin-bottom: 6px;">How can a fresher break into the UI/UX industry? #designsuccess #uiuxdesigner</a> (Jul 9, 2024)<br/>
+    
+  </div>
+</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
+  <a href="https://www.youtube.com/watch?v=fKPLtSFLrqE"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/fKPLtSFLrqE/mqdefault.jpg"></a>
+  <div style="flex-grow: 1; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=fKPLtSFLrqE" style="display: block; font-weight: bold; margin-bottom: 6px;">Will AI take over the jobs of UI/UX designers? #coding #designsuccess</a> (Jul 9, 2024)<br/>
+    
+  </div>
+</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
+  <a href="https://www.youtube.com/watch?v=56ci6IAVNUo"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/56ci6IAVNUo/mqdefault.jpg"></a>
+  <div style="flex-grow: 1; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=56ci6IAVNUo" style="display: block; font-weight: bold; margin-bottom: 6px;">What is Nodejs ? | Ultimate Node Playlist #1</a> (Jul 9, 2024)<br/>
+    
+  </div>
+</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
   <a href="https://www.youtube.com/watch?v=Cs9ZCPUkSsA"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/Cs9ZCPUkSsA/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=Cs9ZCPUkSsA" style="display: block; font-weight: bold; margin-bottom: 6px;">How to Identify if your design is worth it ?</a> (Jul 5, 2024)<br/>
@@ -121,24 +139,6 @@
   <a href="https://www.youtube.com/watch?v=MKfoxb90-3A"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/MKfoxb90-3A/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=MKfoxb90-3A" style="display: block; font-weight: bold; margin-bottom: 6px;">The Rise of Gaming Industry and Women in Tech ft. Kshitija Katare | Episode 13</a> (Jul 5, 2024)<br/>
-    
-  </div>
-</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=-de63NpbnUM"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/-de63NpbnUM/mqdefault.jpg"></a>
-  <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=-de63NpbnUM" style="display: block; font-weight: bold; margin-bottom: 6px;">Best Chrome Extension For Developers with @dailydotdev featuring @francescociulla | Episode 12</a> (Jul 3, 2024)<br/>
-    
-  </div>
-</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=_PZjzzk-Sgw"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/_PZjzzk-Sgw/mqdefault.jpg"></a>
-  <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=_PZjzzk-Sgw" style="display: block; font-weight: bold; margin-bottom: 6px;">Building an AI Content Generator with Gemini AI and the MERN Stack | Part - 2</a> (Jul 2, 2024)<br/>
-    
-  </div>
-</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=M_MjgCXbxUU"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/M_MjgCXbxUU/mqdefault.jpg"></a>
-  <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=M_MjgCXbxUU" style="display: block; font-weight: bold; margin-bottom: 6px;">Building an AI Content Generator with Gemini AI and the MERN Stack | Part - 1</a> (Jun 28, 2024)<br/>
     
   </div>
 </div><!-- YOUTUBE-VIDEOS-LIST:END -->
