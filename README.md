@@ -112,6 +112,12 @@
 
 # 📸Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START --><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
+  <a href="https://www.youtube.com/watch?v=keHHirANiJ0"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/keHHirANiJ0/mqdefault.jpg"></a>
+  <div style="flex-grow: 1; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=keHHirANiJ0" style="display: block; font-weight: bold; margin-bottom: 6px;">UI/UX as a Domain? Key Differences Explained! #coding #designsuccess</a> (Jul 22, 2024)<br/>
+    
+  </div>
+</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
   <a href="https://www.youtube.com/watch?v=OqW9HsuEmDA"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/OqW9HsuEmDA/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=OqW9HsuEmDA" style="display: block; font-weight: bold; margin-bottom: 6px;">Printing Hello World | Ultimate Node Playlist #3</a> (Jul 21, 2024)<br/>
@@ -133,12 +139,6 @@
   <a href="https://www.youtube.com/watch?v=Sasv9DHmZWo"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/Sasv9DHmZWo/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=Sasv9DHmZWo" style="display: block; font-weight: bold; margin-bottom: 6px;">Nodejs Setup | Ultimate Node Playlist #2</a> (Jul 12, 2024)<br/>
-    
-  </div>
-</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=hb-ajP_taq8"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/hb-ajP_taq8/mqdefault.jpg"></a>
-  <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=hb-ajP_taq8" style="display: block; font-weight: bold; margin-bottom: 6px;">Falling in Love with Web Development with @CodingMasterYt | Episode 14</a> (Jul 10, 2024)<br/>
     
   </div>
 </div><!-- YOUTUBE-VIDEOS-LIST:END -->
