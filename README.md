@@ -112,6 +112,12 @@
 
 # 📸Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START --><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
+  <a href="https://www.youtube.com/watch?v=WeT8qibE_PA"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/WeT8qibE_PA/mqdefault.jpg"></a>
+  <div style="flex-grow: 1; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=WeT8qibE_PA" style="display: block; font-weight: bold; margin-bottom: 6px;">Modules in Nodejs | Ultimate Node Playlist #4</a> (Jul 23, 2024)<br/>
+    
+  </div>
+</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
   <a href="https://www.youtube.com/watch?v=keHHirANiJ0"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/keHHirANiJ0/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=keHHirANiJ0" style="display: block; font-weight: bold; margin-bottom: 6px;">UI/UX as a Domain? Key Differences Explained! #coding #designsuccess</a> (Jul 22, 2024)<br/>
@@ -133,12 +139,6 @@
   <a href="https://www.youtube.com/watch?v=T3XQhGE1VHc"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/T3XQhGE1VHc/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=T3XQhGE1VHc" style="display: block; font-weight: bold; margin-bottom: 6px;">From 298 to 310 | How Vaibhav Scored 310 in GRE in 2 Months | Episode 15</a> (Jul 16, 2024)<br/>
-    
-  </div>
-</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=Sasv9DHmZWo"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/Sasv9DHmZWo/mqdefault.jpg"></a>
-  <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=Sasv9DHmZWo" style="display: block; font-weight: bold; margin-bottom: 6px;">Nodejs Setup | Ultimate Node Playlist #2</a> (Jul 12, 2024)<br/>
     
   </div>
 </div><!-- YOUTUBE-VIDEOS-LIST:END -->
