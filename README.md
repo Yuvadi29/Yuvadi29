@@ -112,6 +112,12 @@
 
 # 📸Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START --><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
+  <a href="https://www.youtube.com/watch?v=FzAqRPFlmOk"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/FzAqRPFlmOk/mqdefault.jpg"></a>
+  <div style="flex-grow: 1; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=FzAqRPFlmOk" style="display: block; font-weight: bold; margin-bottom: 6px;">My First Ever Google Interview Experience | Real Talk 🔥🔥</a> (Jul 24, 2024)<br/>
+    
+  </div>
+</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
   <a href="https://www.youtube.com/watch?v=WeT8qibE_PA"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/WeT8qibE_PA/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=WeT8qibE_PA" style="display: block; font-weight: bold; margin-bottom: 6px;">Modules in Nodejs | Ultimate Node Playlist #4</a> (Jul 23, 2024)<br/>
@@ -133,12 +139,6 @@
   <a href="https://www.youtube.com/watch?v=wPafmJPR0pw"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/wPafmJPR0pw/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=wPafmJPR0pw" style="display: block; font-weight: bold; margin-bottom: 6px;">The Ultimate Prompt Engineering MasterClass 🤖🤖</a> (Jul 19, 2024)<br/>
-    
-  </div>
-</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=T3XQhGE1VHc"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/T3XQhGE1VHc/mqdefault.jpg"></a>
-  <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=T3XQhGE1VHc" style="display: block; font-weight: bold; margin-bottom: 6px;">From 298 to 310 | How Vaibhav Scored 310 in GRE in 2 Months | Episode 15</a> (Jul 16, 2024)<br/>
     
   </div>
 </div><!-- YOUTUBE-VIDEOS-LIST:END -->
