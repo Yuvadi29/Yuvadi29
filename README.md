@@ -104,6 +104,12 @@
 
 # 📸Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START --><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
+  <a href="https://www.youtube.com/watch?v=wngumkHqD4o"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/wngumkHqD4o/mqdefault.jpg"></a>
+  <div style="flex-grow: 1; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=wngumkHqD4o" style="display: block; font-weight: bold; margin-bottom: 6px;">NodeJs Event Loop | Ultimate Node Playlist #5</a> (Jul 30, 2024)<br/>
+    
+  </div>
+</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
   <a href="https://www.youtube.com/watch?v=wjXYMklkuEs"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/wjXYMklkuEs/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=wjXYMklkuEs" style="display: block; font-weight: bold; margin-bottom: 6px;">Live Stream for Coders</a> (Jul 28, 2024)<br/>
@@ -125,12 +131,6 @@
   <a href="https://www.youtube.com/watch?v=keHHirANiJ0"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/keHHirANiJ0/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=keHHirANiJ0" style="display: block; font-weight: bold; margin-bottom: 6px;">UI/UX as a Domain? Key Differences Explained! #coding #designsuccess</a> (Jul 22, 2024)<br/>
-    
-  </div>
-</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=OqW9HsuEmDA"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/OqW9HsuEmDA/mqdefault.jpg"></a>
-  <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=OqW9HsuEmDA" style="display: block; font-weight: bold; margin-bottom: 6px;">Printing Hello World | Ultimate Node Playlist #3</a> (Jul 21, 2024)<br/>
     
   </div>
 </div><!-- YOUTUBE-VIDEOS-LIST:END -->
