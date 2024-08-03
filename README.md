@@ -104,15 +104,15 @@
 
 # 📸Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START --><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=KyKXoA-wQuU"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/KyKXoA-wQuU/mqdefault.jpg"></a>
+  <a href="https://www.youtube.com/watch?v=X5F4smAQzjU"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/X5F4smAQzjU/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=KyKXoA-wQuU" style="display: block; font-weight: bold; margin-bottom: 6px;">Perks being in the gaming industry #shorts #gaming #gamingcommunity #podcast</a> (Aug 3, 2024)<br/>
+    <a href="https://www.youtube.com/watch?v=X5F4smAQzjU" style="display: block; font-weight: bold; margin-bottom: 6px;">Creating an AI Project Live with Gemini</a> (Aug 3, 2024)<br/>
     
   </div>
 </div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=X5F4smAQzjU"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/X5F4smAQzjU/mqdefault.jpg"></a>
+  <a href="https://www.youtube.com/watch?v=KyKXoA-wQuU"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/KyKXoA-wQuU/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=X5F4smAQzjU" style="display: block; font-weight: bold; margin-bottom: 6px;">Creating an AI Project Live with Gemini</a> (Aug 2, 2024)<br/>
+    <a href="https://www.youtube.com/watch?v=KyKXoA-wQuU" style="display: block; font-weight: bold; margin-bottom: 6px;">Perks being in the gaming industry #shorts #gaming #gamingcommunity #podcast</a> (Aug 3, 2024)<br/>
     
   </div>
 </div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
