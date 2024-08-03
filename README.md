@@ -104,6 +104,12 @@
 
 # 📸Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START --><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
+  <a href="https://www.youtube.com/watch?v=KyKXoA-wQuU"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/KyKXoA-wQuU/mqdefault.jpg"></a>
+  <div style="flex-grow: 1; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=KyKXoA-wQuU" style="display: block; font-weight: bold; margin-bottom: 6px;">Perks being in the gaming industry #shorts #gaming #gamingcommunity #podcast</a> (Aug 3, 2024)<br/>
+    
+  </div>
+</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
   <a href="https://www.youtube.com/watch?v=X5F4smAQzjU"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/X5F4smAQzjU/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=X5F4smAQzjU" style="display: block; font-weight: bold; margin-bottom: 6px;">Creating an AI Project Live with Gemini</a> (Aug 2, 2024)<br/>
@@ -125,12 +131,6 @@
   <a href="https://www.youtube.com/watch?v=0nW4udBnoB8"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/0nW4udBnoB8/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=0nW4udBnoB8" style="display: block; font-weight: bold; margin-bottom: 6px;">Unveiling @dailydotdev &#39;s Secret to Continuous User Engagement with @francescociulla  #shorts</a> (Jul 31, 2024)<br/>
-    
-  </div>
-</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=vTwzFG__hjY"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/vTwzFG__hjY/mqdefault.jpg"></a>
-  <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=vTwzFG__hjY" style="display: block; font-weight: bold; margin-bottom: 6px;">Future of @dailydotdev  Insights from @francescociulla #shorts #coding #community</a> (Jul 31, 2024)<br/>
     
   </div>
 </div><!-- YOUTUBE-VIDEOS-LIST:END -->
