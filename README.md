@@ -104,6 +104,18 @@
 
 # 📸Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START --><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
+  <a href="https://www.youtube.com/watch?v=yktX440Os60"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/yktX440Os60/mqdefault.jpg"></a>
+  <div style="flex-grow: 1; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=yktX440Os60" style="display: block; font-weight: bold; margin-bottom: 6px;">Our Official website is live on codingadda.vercel.app     #shorts #community #announcement</a> (Aug 9, 2024)<br/>
+    
+  </div>
+</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
+  <a href="https://www.youtube.com/watch?v=q1uCuTw0FMk"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/q1uCuTw0FMk/mqdefault.jpg"></a>
+  <div style="flex-grow: 1; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=q1uCuTw0FMk" style="display: block; font-weight: bold; margin-bottom: 6px;">Generate Random Data with This Package 🔥🔥</a> (Aug 9, 2024)<br/>
+    
+  </div>
+</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
   <a href="https://www.youtube.com/watch?v=xj7XAtkIi8A"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/xj7XAtkIi8A/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=xj7XAtkIi8A" style="display: block; font-weight: bold; margin-bottom: 6px;">Building HTTP Server in NodeJS | Ultimate Node Playlist #7</a> (Aug 6, 2024)<br/>
@@ -119,18 +131,6 @@
   <a href="https://www.youtube.com/watch?v=X5F4smAQzjU"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/X5F4smAQzjU/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=X5F4smAQzjU" style="display: block; font-weight: bold; margin-bottom: 6px;">Creating an AI Project Live with Gemini</a> (Aug 3, 2024)<br/>
-    
-  </div>
-</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=KyKXoA-wQuU"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/KyKXoA-wQuU/mqdefault.jpg"></a>
-  <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=KyKXoA-wQuU" style="display: block; font-weight: bold; margin-bottom: 6px;">Perks being in the gaming industry #shorts #gaming #gamingcommunity #podcast</a> (Aug 3, 2024)<br/>
-    
-  </div>
-</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=ueE2zuoDogg"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/ueE2zuoDogg/mqdefault.jpg"></a>
-  <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=ueE2zuoDogg" style="display: block; font-weight: bold; margin-bottom: 6px;">File Handling in Nodejs | Ultimate Node Playlist #6</a> (Aug 2, 2024)<br/>
     
   </div>
 </div><!-- YOUTUBE-VIDEOS-LIST:END -->
