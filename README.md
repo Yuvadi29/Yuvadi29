@@ -104,6 +104,12 @@
 
 # 📸Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START --><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
+  <a href="https://www.youtube.com/watch?v=ar_Brv8yRAc"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/ar_Brv8yRAc/mqdefault.jpg"></a>
+  <div style="flex-grow: 1; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=ar_Brv8yRAc" style="display: block; font-weight: bold; margin-bottom: 6px;">Web Scraping Explained in Hindi 🔥🔥</a> (Aug 20, 2024)<br/>
+    
+  </div>
+</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
   <a href="https://www.youtube.com/watch?v=LxWtXI0PUSU"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/LxWtXI0PUSU/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=LxWtXI0PUSU" style="display: block; font-weight: bold; margin-bottom: 6px;">What is HuggingFace ? The Ultimate Machine Learning Hub</a> (Aug 16, 2024)<br/>
@@ -125,12 +131,6 @@
   <a href="https://www.youtube.com/watch?v=qmsH5Sc4hh4"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/qmsH5Sc4hh4/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=qmsH5Sc4hh4" style="display: block; font-weight: bold; margin-bottom: 6px;">Mentoring Session for Students</a> (Aug 12, 2024)<br/>
-    
-  </div>
-</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=yktX440Os60"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/yktX440Os60/mqdefault.jpg"></a>
-  <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=yktX440Os60" style="display: block; font-weight: bold; margin-bottom: 6px;">Our Official website is live on codingadda.vercel.app     #shorts #community #announcement</a> (Aug 9, 2024)<br/>
     
   </div>
 </div><!-- YOUTUBE-VIDEOS-LIST:END -->
