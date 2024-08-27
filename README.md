@@ -104,6 +104,12 @@
 
 # 📸Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START --><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
+  <a href="https://www.youtube.com/watch?v=_QHayY-JmAo"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/_QHayY-JmAo/mqdefault.jpg"></a>
+  <div style="flex-grow: 1; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=_QHayY-JmAo" style="display: block; font-weight: bold; margin-bottom: 6px;">🔴 Build a Full Stack Detoxify Application with MERN and Youtube API |</a> (Aug 27, 2024)<br/>
+    
+  </div>
+</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
   <a href="https://www.youtube.com/watch?v=WHfWSibqkPU"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/WHfWSibqkPU/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=WHfWSibqkPU" style="display: block; font-weight: bold; margin-bottom: 6px;">Scraping a Wiki Page using BeautifulSoup🔥🔥</a> (Aug 23, 2024)<br/>
@@ -125,12 +131,6 @@
   <a href="https://www.youtube.com/watch?v=Tp5U6mhw0fI"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/Tp5U6mhw0fI/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=Tp5U6mhw0fI" style="display: block; font-weight: bold; margin-bottom: 6px;">Future Of Jobs in India | Technology, Skill based Education, Coding | Episode 16</a> (Aug 13, 2024)<br/>
-    
-  </div>
-</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=EVftQX-Lcdc"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/EVftQX-Lcdc/mqdefault.jpg"></a>
-  <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=EVftQX-Lcdc" style="display: block; font-weight: bold; margin-bottom: 6px;">Unlock AI with Natural Language Processing 🚀 #ai #machinelearning  #tech #community #python #shorts</a> (Aug 12, 2024)<br/>
     
   </div>
 </div><!-- YOUTUBE-VIDEOS-LIST:END -->
