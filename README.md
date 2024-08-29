@@ -112,7 +112,7 @@
 </div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
   <a href="https://www.youtube.com/watch?v=WHfWSibqkPU"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/WHfWSibqkPU/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=WHfWSibqkPU" style="display: block; font-weight: bold; margin-bottom: 6px;">Scraping a Wiki Page using BeautifulSoup🔥🔥</a> (Aug 23, 2024)<br/>
+    <a href="https://www.youtube.com/watch?v=WHfWSibqkPU" style="display: block; font-weight: bold; margin-bottom: 6px;">🔴 Build and Scrape a Wiki Page using BeautifulSoup</a> (Aug 23, 2024)<br/>
     
   </div>
 </div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
