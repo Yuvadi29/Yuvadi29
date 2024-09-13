@@ -104,6 +104,12 @@
 
 # 📸Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START --><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
+  <a href="https://www.youtube.com/watch?v=jNIqLQsSLCE"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/jNIqLQsSLCE/mqdefault.jpg"></a>
+  <div style="flex-grow: 1; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=jNIqLQsSLCE" style="display: block; font-weight: bold; margin-bottom: 6px;">Introduction to Neural Networks in Natural Language Processing | NLP Series #4</a> (Sep 13, 2024)<br/>
+    
+  </div>
+</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
   <a href="https://www.youtube.com/watch?v=nV5El3xfTho"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/nV5El3xfTho/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=nV5El3xfTho" style="display: block; font-weight: bold; margin-bottom: 6px;">Deep Learning Techniques in Natural Language Processing | NLP Series #3</a> (Sep 10, 2024)<br/>
@@ -125,12 +131,6 @@
   <a href="https://www.youtube.com/watch?v=YwsjrKzDqaM"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/YwsjrKzDqaM/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=YwsjrKzDqaM" style="display: block; font-weight: bold; margin-bottom: 6px;">Top Soft Skills for Interview &amp; Placements</a> (Aug 30, 2024)<br/>
-    
-  </div>
-</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=_QHayY-JmAo"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/_QHayY-JmAo/mqdefault.jpg"></a>
-  <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=_QHayY-JmAo" style="display: block; font-weight: bold; margin-bottom: 6px;">🔴 Build a Full Stack Detoxify Application with MERN and Youtube API |</a> (Aug 27, 2024)<br/>
     
   </div>
 </div><!-- YOUTUBE-VIDEOS-LIST:END -->
