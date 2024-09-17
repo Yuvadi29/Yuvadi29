@@ -104,6 +104,12 @@
 
 # 📸Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START --><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
+  <a href="https://www.youtube.com/watch?v=QyXuC0qQ4rI"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/QyXuC0qQ4rI/mqdefault.jpg"></a>
+  <div style="flex-grow: 1; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=QyXuC0qQ4rI" style="display: block; font-weight: bold; margin-bottom: 6px;">Handling URL&#39;s in NodeJS | Ultimate Node Playlist #8</a> (Sep 17, 2024)<br/>
+    
+  </div>
+</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
   <a href="https://www.youtube.com/watch?v=jNIqLQsSLCE"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/jNIqLQsSLCE/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=jNIqLQsSLCE" style="display: block; font-weight: bold; margin-bottom: 6px;">Introduction to Neural Networks in Natural Language Processing | NLP Series #4</a> (Sep 13, 2024)<br/>
@@ -125,12 +131,6 @@
   <a href="https://www.youtube.com/watch?v=r_G97bDP2Hc"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/r_G97bDP2Hc/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=r_G97bDP2Hc" style="display: block; font-weight: bold; margin-bottom: 6px;">Introduction to Natural Language Processing | NLP Series #1</a> (Sep 3, 2024)<br/>
-    
-  </div>
-</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=YwsjrKzDqaM"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/YwsjrKzDqaM/mqdefault.jpg"></a>
-  <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=YwsjrKzDqaM" style="display: block; font-weight: bold; margin-bottom: 6px;">Top Soft Skills for Interview &amp; Placements</a> (Aug 30, 2024)<br/>
     
   </div>
 </div><!-- YOUTUBE-VIDEOS-LIST:END -->
