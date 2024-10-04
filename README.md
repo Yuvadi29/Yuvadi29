@@ -104,6 +104,12 @@
 
 # 📸Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START --><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
+  <a href="https://www.youtube.com/watch?v=GGkdsFU5vgM"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/GGkdsFU5vgM/mqdefault.jpg"></a>
+  <div style="flex-grow: 1; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=GGkdsFU5vgM" style="display: block; font-weight: bold; margin-bottom: 6px;">How Versioning Works in NodeJS | Ultimate Node Playlist #11</a> (Oct 4, 2024)<br/>
+    
+  </div>
+</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
   <a href="https://www.youtube.com/watch?v=dlSnGQ23P30"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/dlSnGQ23P30/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=dlSnGQ23P30" style="display: block; font-weight: bold; margin-bottom: 6px;">We Spent 4 Years in Engineering College &amp; THIS is What We Learned  - Episode 17</a> (Oct 1, 2024)<br/>
@@ -125,12 +131,6 @@
   <a href="https://www.youtube.com/watch?v=QGu1hJLNlIE"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/QGu1hJLNlIE/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=QGu1hJLNlIE" style="display: block; font-weight: bold; margin-bottom: 6px;">HTTP Methods in NodeJS | Ultimate Node Playlist #9</a> (Sep 20, 2024)<br/>
-    
-  </div>
-</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=QyXuC0qQ4rI"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/QyXuC0qQ4rI/mqdefault.jpg"></a>
-  <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=QyXuC0qQ4rI" style="display: block; font-weight: bold; margin-bottom: 6px;">Handling URL&#39;s in NodeJS | Ultimate Node Playlist #8</a> (Sep 17, 2024)<br/>
     
   </div>
 </div><!-- YOUTUBE-VIDEOS-LIST:END -->
