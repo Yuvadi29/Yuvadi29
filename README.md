@@ -104,6 +104,12 @@
 
 # 📸Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START --><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
+  <a href="https://www.youtube.com/watch?v=Xg4eidDlwA4"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/Xg4eidDlwA4/mqdefault.jpg"></a>
+  <div style="flex-grow: 1; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=Xg4eidDlwA4" style="display: block; font-weight: bold; margin-bottom: 6px;">The Only Developer Tool That I Use !!! | @dailydotdev</a> (Oct 11, 2024)<br/>
+    
+  </div>
+</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
   <a href="https://www.youtube.com/watch?v=iCe_tZu0HgE"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/iCe_tZu0HgE/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=iCe_tZu0HgE" style="display: block; font-weight: bold; margin-bottom: 6px;">What is REST API | Ultimate Node Playlist #12</a> (Oct 8, 2024)<br/>
@@ -125,12 +131,6 @@
   <a href="https://www.youtube.com/watch?v=NSoTQkFJtCg"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/NSoTQkFJtCg/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=NSoTQkFJtCg" style="display: block; font-weight: bold; margin-bottom: 6px;">Getting Started with Express and NodeJS | Ultimate Node Playlist #10</a> (Sep 27, 2024)<br/>
-    
-  </div>
-</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=6AUiMMt69gk"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/6AUiMMt69gk/mqdefault.jpg"></a>
-  <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=6AUiMMt69gk" style="display: block; font-weight: bold; margin-bottom: 6px;">#Vlog 3 Postman Developer Workshop Bengaluru 2024 | One to One Talk 🔥🔥</a> (Sep 24, 2024)<br/>
     
   </div>
 </div><!-- YOUTUBE-VIDEOS-LIST:END -->
