@@ -104,6 +104,12 @@
 
 # 📸Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START --><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
+  <a href="https://www.youtube.com/watch?v=Ins823RkLGo"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/Ins823RkLGo/mqdefault.jpg"></a>
+  <div style="flex-grow: 1; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=Ins823RkLGo" style="display: block; font-weight: bold; margin-bottom: 6px;">Fastest Way to Learn Coding and Get a Job 🔥🔥</a> (Oct 15, 2024)<br/>
+    
+  </div>
+</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
   <a href="https://www.youtube.com/watch?v=Xg4eidDlwA4"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/Xg4eidDlwA4/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=Xg4eidDlwA4" style="display: block; font-weight: bold; margin-bottom: 6px;">The Only Developer Tool That I Use !!! | @dailydotdev</a> (Oct 11, 2024)<br/>
@@ -125,12 +131,6 @@
   <a href="https://www.youtube.com/watch?v=dlSnGQ23P30"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/dlSnGQ23P30/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=dlSnGQ23P30" style="display: block; font-weight: bold; margin-bottom: 6px;">We Spent 4 Years in Engineering College &amp; THIS is What We Learned  - Episode 17</a> (Oct 1, 2024)<br/>
-    
-  </div>
-</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=NSoTQkFJtCg"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/NSoTQkFJtCg/mqdefault.jpg"></a>
-  <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=NSoTQkFJtCg" style="display: block; font-weight: bold; margin-bottom: 6px;">Getting Started with Express and NodeJS | Ultimate Node Playlist #10</a> (Sep 27, 2024)<br/>
     
   </div>
 </div><!-- YOUTUBE-VIDEOS-LIST:END -->
