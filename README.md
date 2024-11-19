@@ -162,3 +162,6 @@
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Yuvadi29&color=blue&style=flat&label=Profile+Views&base=1000)
+
+<a href="https://app.daily.dev/devadi"><img src="https://api.daily.dev/devcards/v2/E1VtXQx33L0b4y5qw4f9k.png?type=default&r=4xe" width="356" alt="Aditya Trivedi's Dev Card"/></a>
+
