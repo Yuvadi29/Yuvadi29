@@ -104,6 +104,12 @@
 
 # 📸Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START --><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
+  <a href="https://www.youtube.com/watch?v=JH9SXYSHxvQ"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/JH9SXYSHxvQ/mqdefault.jpg"></a>
+  <div style="flex-grow: 1; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=JH9SXYSHxvQ" style="display: block; font-weight: bold; margin-bottom: 6px;">Creating Videos Programmatically using Remotion ft. @JonnyBurger  |  Episode 19</a> (Nov 26, 2024)<br/>
+    
+  </div>
+</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
   <a href="https://www.youtube.com/watch?v=8y3nwgrqnYo"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/8y3nwgrqnYo/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=8y3nwgrqnYo" style="display: block; font-weight: bold; margin-bottom: 6px;">Placements Guide 2024</a> (Nov 19, 2024)<br/>
@@ -125,12 +131,6 @@
   <a href="https://www.youtube.com/watch?v=afFxMpyjXaU"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/afFxMpyjXaU/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=afFxMpyjXaU" style="display: block; font-weight: bold; margin-bottom: 6px;">Create Seamless Full-Bleed Layouts in HTML &amp; CSS!🔥🔥</a> (Nov 1, 2024)<br/>
-    
-  </div>
-</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=PM3gNw8lvxY"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/PM3gNw8lvxY/mqdefault.jpg"></a>
-  <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=PM3gNw8lvxY" style="display: block; font-weight: bold; margin-bottom: 6px;">Figma Basics: Your Ultimate Getting Started Guide</a> (Oct 29, 2024)<br/>
     
   </div>
 </div><!-- YOUTUBE-VIDEOS-LIST:END -->
