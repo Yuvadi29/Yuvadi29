@@ -104,6 +104,12 @@
 
 # 📸Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START --><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
+  <a href="https://www.youtube.com/watch?v=lmyDhtYnQVc"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/lmyDhtYnQVc/mqdefault.jpg"></a>
+  <div style="flex-grow: 1; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=lmyDhtYnQVc" style="display: block; font-weight: bold; margin-bottom: 6px;">Masonry Layout using TailwindCSS Tutorial</a> (Dec 3, 2024)<br/>
+    
+  </div>
+</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
   <a href="https://www.youtube.com/watch?v=9qWm1GOu1Ic"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/9qWm1GOu1Ic/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=9qWm1GOu1Ic" style="display: block; font-weight: bold; margin-bottom: 6px;">Google DevFest Bangalore 2024 | Free Swags &amp; Learning Opportunity for Students &amp; Developers</a> (Nov 29, 2024)<br/>
@@ -125,12 +131,6 @@
   <a href="https://www.youtube.com/watch?v=uHN6pAFSonI"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/uHN6pAFSonI/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=uHN6pAFSonI" style="display: block; font-weight: bold; margin-bottom: 6px;">Correct Approach to Coding Interviews During Placements</a> (Nov 12, 2024)<br/>
-    
-  </div>
-</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=Fih55A01Pkg"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/Fih55A01Pkg/mqdefault.jpg"></a>
-  <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=Fih55A01Pkg" style="display: block; font-weight: bold; margin-bottom: 6px;">Decoding DevRel: What, Why &amp; How - Episode 18</a> (Nov 8, 2024)<br/>
     
   </div>
 </div><!-- YOUTUBE-VIDEOS-LIST:END -->
