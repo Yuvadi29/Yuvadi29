@@ -106,7 +106,7 @@
 <!-- YOUTUBE-VIDEOS-LIST:START --><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
   <a href="https://www.youtube.com/watch?v=t_4Sr7QIWm4"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/t_4Sr7QIWm4/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=t_4Sr7QIWm4" style="display: block; font-weight: bold; margin-bottom: 6px;">HONEST PLACEMENT PODCAST f.t Vasu Kothamasu |  Episode 20</a> (Dec 17, 2024)<br/>
+    <a href="https://www.youtube.com/watch?v=t_4Sr7QIWm4" style="display: block; font-weight: bold; margin-bottom: 6px;">HONEST PLACEMENT PODCAST ft. Vasu Kothamasu |  Episode 20</a> (Dec 17, 2024)<br/>
     
   </div>
 </div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
