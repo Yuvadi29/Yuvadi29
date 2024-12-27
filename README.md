@@ -104,6 +104,12 @@
 
 # 📸Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START --><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
+  <a href="https://www.youtube.com/watch?v=YKrDlAR0QGg"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/YKrDlAR0QGg/mqdefault.jpg"></a>
+  <div style="flex-grow: 1; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=YKrDlAR0QGg" style="display: block; font-weight: bold; margin-bottom: 6px;">Our First Meetup Before 2024 Got Over🔥🔥</a> (Dec 27, 2024)<br/>
+    
+  </div>
+</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
   <a href="https://www.youtube.com/watch?v=4g4NgoHyrn0"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/4g4NgoHyrn0/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=4g4NgoHyrn0" style="display: block; font-weight: bold; margin-bottom: 6px;">Use Grid Stacking instead of Position Absolute</a> (Dec 20, 2024)<br/>
@@ -125,12 +131,6 @@
   <a href="https://www.youtube.com/watch?v=-1Er-E6SfJQ"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/-1Er-E6SfJQ/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=-1Er-E6SfJQ" style="display: block; font-weight: bold; margin-bottom: 6px;">I Spent 30 Days Learning Generative AI Here&#39;s What Happened</a> (Dec 10, 2024)<br/>
-    
-  </div>
-</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=lmyDhtYnQVc"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/lmyDhtYnQVc/mqdefault.jpg"></a>
-  <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=lmyDhtYnQVc" style="display: block; font-weight: bold; margin-bottom: 6px;">Masonry Layout using TailwindCSS Tutorial</a> (Dec 3, 2024)<br/>
     
   </div>
 </div><!-- YOUTUBE-VIDEOS-LIST:END -->
