@@ -104,6 +104,12 @@
 
 # 📸Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START --><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
+  <a href="https://www.youtube.com/watch?v=W68WhqtJRAs"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/W68WhqtJRAs/mqdefault.jpg"></a>
+  <div style="flex-grow: 1; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=W68WhqtJRAs" style="display: block; font-weight: bold; margin-bottom: 6px;">Project Ideas for Developers</a> (Jan 3, 2025)<br/>
+    
+  </div>
+</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
   <a href="https://www.youtube.com/watch?v=GcafkR6zc-s"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/GcafkR6zc-s/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=GcafkR6zc-s" style="display: block; font-weight: bold; margin-bottom: 6px;">You Won&#39;t Believe the POWER of APIs in 5 Years!</a> (Dec 31, 2024)<br/>
@@ -125,12 +131,6 @@
   <a href="https://www.youtube.com/watch?v=t_4Sr7QIWm4"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/t_4Sr7QIWm4/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=t_4Sr7QIWm4" style="display: block; font-weight: bold; margin-bottom: 6px;">HONEST PLACEMENT PODCAST ft. Vasu Kothamasu |  Episode 20</a> (Dec 17, 2024)<br/>
-    
-  </div>
-</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=7VZMRabE5bA"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/7VZMRabE5bA/mqdefault.jpg"></a>
-  <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=7VZMRabE5bA" style="display: block; font-weight: bold; margin-bottom: 6px;">Watch This Before Cloning any Project !!</a> (Dec 13, 2024)<br/>
     
   </div>
 </div><!-- YOUTUBE-VIDEOS-LIST:END -->
