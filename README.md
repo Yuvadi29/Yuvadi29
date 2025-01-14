@@ -104,6 +104,12 @@
 
 # 📸Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START --><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
+  <a href="https://www.youtube.com/watch?v=DsjueNBpM5M"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/DsjueNBpM5M/mqdefault.jpg"></a>
+  <div style="flex-grow: 1; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=DsjueNBpM5M" style="display: block; font-weight: bold; margin-bottom: 6px;">This GUY Quit Google to Persue THIS Dream !! ft. Deepak Mahto |  Episode 21</a> (Jan 14, 2025)<br/>
+    
+  </div>
+</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
   <a href="https://www.youtube.com/watch?v=sbrLvdZ4CIE"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/sbrLvdZ4CIE/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=sbrLvdZ4CIE" style="display: block; font-weight: bold; margin-bottom: 6px;">3 Key Benefits of Using Test Driven Development in Your Workflow</a> (Jan 10, 2025)<br/>
@@ -125,12 +131,6 @@
   <a href="https://www.youtube.com/watch?v=GcafkR6zc-s"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/GcafkR6zc-s/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=GcafkR6zc-s" style="display: block; font-weight: bold; margin-bottom: 6px;">You Won&#39;t Believe the POWER of APIs in 5 Years!</a> (Dec 31, 2024)<br/>
-    
-  </div>
-</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=YKrDlAR0QGg"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/YKrDlAR0QGg/mqdefault.jpg"></a>
-  <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=YKrDlAR0QGg" style="display: block; font-weight: bold; margin-bottom: 6px;">Our First Meetup Before 2024 Got Over🔥🔥</a> (Dec 27, 2024)<br/>
     
   </div>
 </div><!-- YOUTUBE-VIDEOS-LIST:END -->
