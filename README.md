@@ -106,7 +106,7 @@
 <!-- YOUTUBE-VIDEOS-LIST:START --><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
   <a href="https://www.youtube.com/watch?v=DsjueNBpM5M"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/DsjueNBpM5M/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=DsjueNBpM5M" style="display: block; font-weight: bold; margin-bottom: 6px;">This GUY Quit Google to Persue THIS Dream !! ft. Deepak Mahto |  Episode 21</a> (Jan 14, 2025)<br/>
+    <a href="https://www.youtube.com/watch?v=DsjueNBpM5M" style="display: block; font-weight: bold; margin-bottom: 6px;">This Guy QUIT Google to pursue HIS Dream !! ft. Deepak Mahto |  Episode 21</a> (Jan 14, 2025)<br/>
     
   </div>
 </div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
