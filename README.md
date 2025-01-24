@@ -104,6 +104,12 @@
 
 # 📸Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START --><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
+  <a href="https://www.youtube.com/watch?v=a45O-bpe_Vw"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/a45O-bpe_Vw/mqdefault.jpg"></a>
+  <div style="flex-grow: 1; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=a45O-bpe_Vw" style="display: block; font-weight: bold; margin-bottom: 6px;">Build an AI Based Code Comment Generator Using Ollama and NodeJs | AI Project Tutorial</a> (Jan 24, 2025)<br/>
+    
+  </div>
+</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
   <a href="https://www.youtube.com/watch?v=2jztMC1UHzY"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/2jztMC1UHzY/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=2jztMC1UHzY" style="display: block; font-weight: bold; margin-bottom: 6px;">Falling in Love with Development ft. Tarun Soni - Episode 22</a> (Jan 21, 2025)<br/>
@@ -125,12 +131,6 @@
   <a href="https://www.youtube.com/watch?v=sbrLvdZ4CIE"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/sbrLvdZ4CIE/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=sbrLvdZ4CIE" style="display: block; font-weight: bold; margin-bottom: 6px;">3 Key Benefits of Using Test Driven Development in Your Workflow</a> (Jan 10, 2025)<br/>
-    
-  </div>
-</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=Wt_ltaR3fWU"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/Wt_ltaR3fWU/mqdefault.jpg"></a>
-  <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=Wt_ltaR3fWU" style="display: block; font-weight: bold; margin-bottom: 6px;">This Tool Will Help You Study a Day Before Your Exams 🔥🔥</a> (Jan 7, 2025)<br/>
     
   </div>
 </div><!-- YOUTUBE-VIDEOS-LIST:END -->
