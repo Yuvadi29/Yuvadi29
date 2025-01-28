@@ -104,6 +104,12 @@
 
 # 📸Latest Youtube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START --><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
+  <a href="https://www.youtube.com/watch?v=7DnKBmxbqmE"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/7DnKBmxbqmE/mqdefault.jpg"></a>
+  <div style="flex-grow: 1; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=7DnKBmxbqmE" style="display: block; font-weight: bold; margin-bottom: 6px;">I Tested 5 JavaScript Tutorials and Found the BEST One for Beginners</a> (Jan 28, 2025)<br/>
+    
+  </div>
+</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
   <a href="https://www.youtube.com/watch?v=a45O-bpe_Vw"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/a45O-bpe_Vw/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=a45O-bpe_Vw" style="display: block; font-weight: bold; margin-bottom: 6px;">Build an AI Based Code Comment Generator Using Ollama and NodeJs | AI Project Tutorial</a> (Jan 24, 2025)<br/>
@@ -125,12 +131,6 @@
   <a href="https://www.youtube.com/watch?v=DsjueNBpM5M"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/DsjueNBpM5M/mqdefault.jpg"></a>
   <div style="flex-grow: 1; text-align: center;">
     <a href="https://www.youtube.com/watch?v=DsjueNBpM5M" style="display: block; font-weight: bold; margin-bottom: 6px;">This Guy QUIT Google to pursue HIS Dream !! ft. Deepak Mahto |  Episode 21</a> (Jan 14, 2025)<br/>
-    
-  </div>
-</div><div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
-  <a href="https://www.youtube.com/watch?v=sbrLvdZ4CIE"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/sbrLvdZ4CIE/mqdefault.jpg"></a>
-  <div style="flex-grow: 1; text-align: center;">
-    <a href="https://www.youtube.com/watch?v=sbrLvdZ4CIE" style="display: block; font-weight: bold; margin-bottom: 6px;">3 Key Benefits of Using Test Driven Development in Your Workflow</a> (Jan 10, 2025)<br/>
     
   </div>
 </div><!-- YOUTUBE-VIDEOS-LIST:END -->
