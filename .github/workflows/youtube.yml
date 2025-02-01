@@ -1,29 +1,20 @@
-name: YouTube Videos
+name: Update README with YT data
+
 on:
-  push:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '* * 14 * *'
   workflow_dispatch:
 
 jobs:
-  youtube:
-    name: latest videos from YouTube
+  build:
     runs-on: ubuntu-latest
+    name: Update this repo's README with recent YT activity
+
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: checkput main branch
+        uses: actions/checkout@v3
+      - name: Update this repo's README with recent YT activity
+        uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          comment_tag_name: "YOUTUBE-VIDEOS-LIST"
-          max_post_count: 5
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UChVzP7gNOlkymoo000Y9_6Q"
-          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
-          date_format: "mmm d, yyyy"
-          template: |
-            <div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; display: flex; align-items: center;">
-              <a href="$url"><img width="250px" style="border-radius: 8px; margin-right: 12px;" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a>
-              <div style="flex-grow: 1; text-align: center;">
-                <a href="$url" style="display: block; font-weight: bold; margin-bottom: 6px;">$title</a> ($date)<br/>
-                $description
-              </div>
-            </div>
-          description_max_length: 140
+          channel_id: UChVzP7gNOlkymoo000Y9_6Q
+          max_videos: 9
