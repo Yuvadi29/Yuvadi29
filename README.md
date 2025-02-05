@@ -115,6 +115,10 @@
 [![Project Ideas for Developers](https://ytcards.demolab.com/?id=W68WhqtJRAs&title=Project+Ideas+for+Developers&lang=en&timestamp=1735882214&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Project Ideas for Developers")](https://www.youtube.com/watch?v=W68WhqtJRAs)
 <!-- END YOUTUBE-CARDS -->
 
+<img src="https://raw.githubusercontent.com/Yuvadi29/Yuvadi29/output/snake.svg" alt="Snake animation" />
+
+###
+
 ### 👋 &nbsp;Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/adityat1702/">
