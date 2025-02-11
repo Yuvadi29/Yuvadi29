@@ -2,7 +2,7 @@
 ![Linkedin Banner Updated](https://github.com/Yuvadi29/Yuvadi29/assets/80524895/64e39555-2b44-48be-a6b2-1a2a13c285be)
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=🚀MERN-Stack+Developer;🎙️Podcaster;📷Content-Creator;🎤Speaker;👋Nice+to+meet+you...)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=🚀Software-Developer;🎙️Podcaster;📷Content-Creator;🎤Speaker;👋Nice+to+meet+you...)
 
 💡 &nbsp; Passionate about Development, Creating Projects using AI.\
 🧠 &nbsp; Diving Deeper into the world of AI and Web.\
