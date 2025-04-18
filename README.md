@@ -8,6 +8,7 @@
 🧠 &nbsp; Diving Deeper into the world of AI and Web.\
 ✍️ &nbsp; Side Hustling in Content Creation on my Youtube Channel - **[Coding Adda](https://www.youtube.com/@Coding_adda)**.\
 🧑‍🏭 &nbsp; Skilled in Creating AI models and Web Applications using LLMs.\
+📕 &nbsp; Checkout my EBook on Prompt Engineering: [Basics of Prompt Engineering](https://amzn.in/d/4DiLgn3).\
 ✉️ &nbsp; I believe in the power of contributing to the community via Open Source Projects and Tutorials on YouTube.\
 📄 &nbsp;My [Resume](Aditya_Trivedi_CV.pdf) for more details about me. I'm open to feedback and suggestions!
 
@@ -55,6 +56,8 @@
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
+![Supabase](https://skillicons.dev/icons?i=supabase)
+![Prisma](https://skillicons.dev/icons?i=prisma)
 
 #### Others
 
@@ -71,8 +74,6 @@
 
 ![Linux](https://skillicons.dev/icons?i=linux)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ### ⚙️ &nbsp;GitHub Analytics
 
