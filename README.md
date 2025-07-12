@@ -35,6 +35,12 @@
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
 
+#### CICD Pipelines
+![Jenkins](https://skillicons.dev/icons?i=jenkins)
+![Gitlab](https://skillicons.dev/icons?i=gitlab)
+![Github Actions](https://skillicons.dev/icons?i=githubactions)
+
+
 #### Favourite IDEs/Editors
 
 ![Visual Studio Code](https://skillicons.dev/icons?i=vscode)
