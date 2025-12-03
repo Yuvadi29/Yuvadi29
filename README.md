@@ -1,11 +1,11 @@
 ## Hey👋
-<img width="2560" height="1440" alt="Banner" src="https://github.com/user-attachments/assets/65769515-b64b-4895-b9b6-bee49fdad768" />
+<img width="2560" height="1440" alt="Banner" src="https://github.com/user-attachments/assets/443be0d7-9686-4610-9ee5-976eccf52eed" />
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=🚀Software-Developer;🎙️Podcaster;📷Educator🎤Speaker;📕Author👋Nice+to+meet+you...)
 
 💡 &nbsp; Passionate about Development, Creating Projects using AI.\
 🧠 &nbsp; Diving Deeper into the world of AI and Web.\
-✍️ &nbsp; Side Hustling in Content Creation on my Youtube Channel - **[Coding Adda](https://www.youtube.com/@Coding_adda)**.\
+✍️ &nbsp; Side Hustling in Content Creation on my Youtube Channel - **[YouTube](https://www.youtube.com/@adityatrivedidev)**.\
 🧑‍🏭 &nbsp; Skilled in Creating AI models and Web Applications using LLMs.\
 📕 &nbsp; Checkout my EBook on Prompt Engineering: [Basics of Prompt Engineering](https://amzn.in/d/4DiLgn3).\
 ✉️ &nbsp; I believe in the power of contributing to the community via Open Source Projects and Tutorials on YouTube.\
