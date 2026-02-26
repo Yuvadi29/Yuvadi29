@@ -5,7 +5,7 @@
 
 💡 &nbsp; Passionate about Development, Creating Projects using AI.\
 🧠 &nbsp; Diving Deeper into the world of AI and Web.\
-✍️ &nbsp; Side Hustling in Content Creation on my Youtube Channel - **[YouTube](https://www.youtube.com/@adityatrivedidev)**.\
+✍️ &nbsp; Side Hustling in Content Creation on my Youtube Channel - **[YouTube](https://www.youtube.com/@Coding_Adda)**.\
 🧑‍🏭 &nbsp; Skilled in Creating AI models and Web Applications using LLMs.\
 📕 &nbsp; Checkout my EBook on Prompt Engineering: [Basics of Prompt Engineering](https://amzn.in/d/4DiLgn3).\
 ✉️ &nbsp; I believe in the power of contributing to the community via Open Source Projects and Tutorials on YouTube.\
