@@ -2,7 +2,7 @@ name: Update README with YT data
 
 on:
   schedule:
-    - cron: '* * 14 * *'
+    - cron: '0 16 * * 2,3'
   workflow_dispatch:
 
 jobs:
@@ -11,10 +11,22 @@ jobs:
     name: Update this repo's README with recent YT activity
 
     steps:
-      - name: checkput main branch
+      - name: Checkout main branch
         uses: actions/checkout@v3
-      - name: Update this repo's README with recent YT activity
+      - name: Update README with recent YouTube videos
         uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UChVzP7gNOlkymoo000Y9_6Q
           max_videos: 9
+          card_width: 250
+          card_height: 141
+          border_radius: 10
+          show_duration: true
+          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update README with latest YouTube videos" || exit 0
+          git push
