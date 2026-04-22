@@ -99,13 +99,15 @@
 
 <p align="center">
     <!-- Profile Summary Card -->
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuvadi29&theme=algolia" alt="Profile Summary Card" />
+    <img loading="lazy" width=396 src="https://montasim-github-readme-stats.vercel.app/api?username=Yuvadi29&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=29&theme=react&title_color=EB008B&currStreakLabel=EB008B&sideLabels=EB008B&icon_color=EB008B&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true&include_all_commits=true" alt="github stats" />
+
 </p>
 
-<p align="center">
-    <!-- Trophy Stats -->
-    <img src="https://github-profile-trophy.vercel.app/?username=Yuvadi29&theme=tokyonight" alt="GitHub Trophies" />
-</p>
+<!-- GitHub trophy start -->
+<div align="center">
+    <img loading="lazy" src="https://montasim-github-profile-trophy.vercel.app?username=Yuvadi29&theme=radical&no-bg=true&no-frame=true&row=1&column=7&rank=SSS,SS,S,AAA,AA,A"  alt="github profile trophy"/>
+</div>
+<!-- GitHub trophy end -->
 
 
 # 📸Latest Youtube Videos
