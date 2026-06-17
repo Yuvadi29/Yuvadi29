@@ -102,7 +102,6 @@ Building experiments around:
 [![Why Every Company Wants Its Own ChatGPT | AI Explained EP09](https://ytcards.demolab.com/?id=-hDC5ksXD_I&title=Why+Every+Company+Wants+Its+Own+ChatGPT+%7C+AI+Explained+EP09&lang=en&timestamp=1781625614&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=400 "Why Every Company Wants Its Own ChatGPT | AI Explained EP09")](https://www.youtube.com/watch?v=-hDC5ksXD_I)
 [![Why ChatGPT Gives Different Answers Every Time | AI Explained EP08](https://ytcards.demolab.com/?id=cQfMJaakEww&title=Why+ChatGPT+Gives+Different+Answers+Every+Time+%7C+AI+Explained+EP08&lang=en&timestamp=1781280034&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=509 "Why ChatGPT Gives Different Answers Every Time | AI Explained EP08")](https://www.youtube.com/watch?v=cQfMJaakEww)
 [![Why ChatGPT Sometimes Lies | AI Explained EP07](https://ytcards.demolab.com/?id=KJgtrjKMFnU&title=Why+ChatGPT+Sometimes+Lies+%7C+AI+Explained+EP07&lang=en&timestamp=1781020806&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=608 "Why ChatGPT Sometimes Lies | AI Explained EP07")](https://www.youtube.com/watch?v=KJgtrjKMFnU)
-
 <!-- END YOUTUBE-CARDS -->
 
 # ⚡ Tech Focus
