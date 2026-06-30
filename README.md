@@ -99,9 +99,9 @@ Building experiments around:
 
 # 📸Latest Youtube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Loop Engineering: The AI Breakthrough Nobody's Talking About](https://ytcards.demolab.com/?id=P2JXvKA6Hog&title=Loop+Engineering%3A+The+AI+Breakthrough+Nobody%27s+Talking+About&lang=en&timestamp=1782835207&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=926 "Loop Engineering: The AI Breakthrough Nobody's Talking About")](https://www.youtube.com/watch?v=P2JXvKA6Hog)
+[![My Second Product Launch | Studio](https://ytcards.demolab.com/?id=ElmNLs3QNe0&title=My+Second+Product+Launch+%7C+Studio&lang=en&timestamp=1782489630&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=654 "My Second Product Launch | Studio")](https://www.youtube.com/watch?v=ElmNLs3QNe0)
 [![Ai is Replacing Mediocre Software Engineers #ai](https://ytcards.demolab.com/?id=QEt9VGg_9GI&title=Ai+is+Replacing+Mediocre+Software+Engineers+%23ai&lang=en&timestamp=1782286204&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=51 "Ai is Replacing Mediocre Software Engineers #ai")](https://www.youtube.com/shorts/QEt9VGg_9GI)
-[![India's AI Investment Gap #ai #funding](https://ytcards.demolab.com/?id=UM9I-40cJ80&title=India%27s+AI+Investment+Gap+%23ai+%23funding&lang=en&timestamp=1782279012&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=54 "India's AI Investment Gap #ai #funding")](https://www.youtube.com/shorts/UM9I-40cJ80)
-[![India's AI Talent #talent #ai](https://ytcards.demolab.com/?id=CqnCPneAhk4&title=India%27s+AI+Talent+%23talent+%23ai&lang=en&timestamp=1782273618&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=53 "India's AI Talent #talent #ai")](https://www.youtube.com/shorts/CqnCPneAhk4)
 <!-- END YOUTUBE-CARDS -->
 
 # ⚡ Tech Focus
