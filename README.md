@@ -30,7 +30,7 @@
 
 I'm an AI Engineer focused on building practical AI products powered by LLMs, RAG systems, AI Agents, and modern web technologies.
 
-Outside work, I run **[Coding Adda](https://www.youtube.com/@Coding_Adda))**, where I simplify complex AI concepts through videos, podcasts, tutorials, and open-source projects.
+Outside work, I run **[Coding Adda](https://www.youtube.com/@Coding_Adda)**, where I simplify complex AI concepts through videos, podcasts, tutorials, and open-source projects.
 
 ```bash
 whoami
