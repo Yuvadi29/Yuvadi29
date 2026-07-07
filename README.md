@@ -99,9 +99,9 @@ Building experiments around:
 
 # 📸Latest Youtube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
+[![How Git Actually Works: Build it From Scratch!](https://ytcards.demolab.com/?id=FkTSjW_OLRU&title=How+Git+Actually+Works%3A+Build+it+From+Scratch%21&lang=en&timestamp=1783440029&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=3059 "How Git Actually Works: Build it From Scratch!")](https://www.youtube.com/watch?v=FkTSjW_OLRU)
+[![Is Harness Engineering Better Than Prompt Engineering? | Deep Dive Tutorial](https://ytcards.demolab.com/?id=v-2nCuNMIec&title=Is+Harness+Engineering+Better+Than+Prompt+Engineering%3F+%7C+Deep+Dive+Tutorial&lang=en&timestamp=1783094415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=680 "Is Harness Engineering Better Than Prompt Engineering? | Deep Dive Tutorial")](https://www.youtube.com/watch?v=v-2nCuNMIec)
 [![Prompt Engineering is Dead ☠️](https://ytcards.demolab.com/?id=P2JXvKA6Hog&title=Prompt+Engineering+is+Dead+%E2%98%A0%EF%B8%8F&lang=en&timestamp=1782835207&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=926 "Prompt Engineering is Dead ☠️")](https://www.youtube.com/watch?v=P2JXvKA6Hog)
-[![My Second Product Launch | Studio](https://ytcards.demolab.com/?id=ElmNLs3QNe0&title=My+Second+Product+Launch+%7C+Studio&lang=en&timestamp=1782489630&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=654 "My Second Product Launch | Studio")](https://www.youtube.com/watch?v=ElmNLs3QNe0)
-[![Ai is Replacing Mediocre Software Engineers #ai](https://ytcards.demolab.com/?id=QEt9VGg_9GI&title=Ai+is+Replacing+Mediocre+Software+Engineers+%23ai&lang=en&timestamp=1782286204&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=51 "Ai is Replacing Mediocre Software Engineers #ai")](https://www.youtube.com/shorts/QEt9VGg_9GI)
 <!-- END YOUTUBE-CARDS -->
 
 # ⚡ Tech Focus
