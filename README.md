@@ -99,9 +99,9 @@ Building experiments around:
 
 # 📸Latest Youtube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
+[![How LLMs Actually Work: Tokenization Explained](https://ytcards.demolab.com/?id=cRxKVVCXu9E&title=How+LLMs+Actually+Work%3A+Tokenization+Explained&lang=en&timestamp=1784044826&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=2260 "How LLMs Actually Work: Tokenization Explained")](https://www.youtube.com/watch?v=cRxKVVCXu9E)
+[![Stop Broken Commits Before They Reach GitHub | Husky Pre-Commit Hooks Explained](https://ytcards.demolab.com/?id=oT7YRy4BErE&title=Stop+Broken+Commits+Before+They+Reach+GitHub+%7C+Husky+Pre-Commit+Hooks+Explained&lang=en&timestamp=1783699212&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=689 "Stop Broken Commits Before They Reach GitHub | Husky Pre-Commit Hooks Explained")](https://www.youtube.com/watch?v=oT7YRy4BErE)
 [![How Git Actually Works: Build it From Scratch!](https://ytcards.demolab.com/?id=FkTSjW_OLRU&title=How+Git+Actually+Works%3A+Build+it+From+Scratch%21&lang=en&timestamp=1783440029&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=3059 "How Git Actually Works: Build it From Scratch!")](https://www.youtube.com/watch?v=FkTSjW_OLRU)
-[![Is Harness Engineering Better Than Prompt Engineering? | Deep Dive Tutorial](https://ytcards.demolab.com/?id=v-2nCuNMIec&title=Is+Harness+Engineering+Better+Than+Prompt+Engineering%3F+%7C+Deep+Dive+Tutorial&lang=en&timestamp=1783094415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=680 "Is Harness Engineering Better Than Prompt Engineering? | Deep Dive Tutorial")](https://www.youtube.com/watch?v=v-2nCuNMIec)
-[![Prompt Engineering is Dead ☠️](https://ytcards.demolab.com/?id=P2JXvKA6Hog&title=Prompt+Engineering+is+Dead+%E2%98%A0%EF%B8%8F&lang=en&timestamp=1782835207&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=926 "Prompt Engineering is Dead ☠️")](https://www.youtube.com/watch?v=P2JXvKA6Hog)
 <!-- END YOUTUBE-CARDS -->
 
 # ⚡ Tech Focus
