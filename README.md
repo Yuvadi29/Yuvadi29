@@ -99,9 +99,9 @@ Building experiments around:
 
 # 📸Latest Youtube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Sunday Night Live](https://ytcards.demolab.com/?id=APAOnHcVPjU&title=Sunday+Night+Live&lang=en&timestamp=1784516246&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=1280 "Sunday Night Live")](https://www.youtube.com/watch?v=APAOnHcVPjU)
+[![Deep Dive into NLP: Building Custom Embeddings from Scratch](https://ytcards.demolab.com/?id=TEBOronCoI0&title=Deep+Dive+into+NLP%3A+Building+Custom+Embeddings+from+Scratch&lang=en&timestamp=1784304021&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=3372 "Deep Dive into NLP: Building Custom Embeddings from Scratch")](https://www.youtube.com/watch?v=TEBOronCoI0)
 [![How LLMs Actually Work: Tokenization Explained](https://ytcards.demolab.com/?id=cRxKVVCXu9E&title=How+LLMs+Actually+Work%3A+Tokenization+Explained&lang=en&timestamp=1784044826&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=2260 "How LLMs Actually Work: Tokenization Explained")](https://www.youtube.com/watch?v=cRxKVVCXu9E)
-[![Stop Broken Commits Before They Reach GitHub | Husky Pre-Commit Hooks Explained](https://ytcards.demolab.com/?id=oT7YRy4BErE&title=Stop+Broken+Commits+Before+They+Reach+GitHub+%7C+Husky+Pre-Commit+Hooks+Explained&lang=en&timestamp=1783699212&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=689 "Stop Broken Commits Before They Reach GitHub | Husky Pre-Commit Hooks Explained")](https://www.youtube.com/watch?v=oT7YRy4BErE)
-[![How Git Actually Works: Build it From Scratch!](https://ytcards.demolab.com/?id=FkTSjW_OLRU&title=How+Git+Actually+Works%3A+Build+it+From+Scratch%21&lang=en&timestamp=1783440029&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=3059 "How Git Actually Works: Build it From Scratch!")](https://www.youtube.com/watch?v=FkTSjW_OLRU)
 <!-- END YOUTUBE-CARDS -->
 
 # ⚡ Tech Focus
