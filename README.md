@@ -99,9 +99,9 @@ Building experiments around:
 
 # 📸Latest Youtube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
+[![UPI System Design - How UPI System Works? | UPI System Design In Hindi | Coding Adda](https://ytcards.demolab.com/?id=52e-grer2Es&title=UPI+System+Design+-+How+UPI+System+Works%3F+%7C+UPI+System+Design+In+Hindi+%7C+Coding+Adda&lang=en&timestamp=1785853834&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=1220 "UPI System Design - How UPI System Works? | UPI System Design In Hindi | Coding Adda")](https://www.youtube.com/watch?v=52e-grer2Es)
 [![Sunday Night Live](https://ytcards.demolab.com/?id=APAOnHcVPjU&title=Sunday+Night+Live&lang=en&timestamp=1784516246&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=1280 "Sunday Night Live")](https://www.youtube.com/watch?v=APAOnHcVPjU)
 [![Deep Dive into NLP: Building Custom Embeddings from Scratch](https://ytcards.demolab.com/?id=TEBOronCoI0&title=Deep+Dive+into+NLP%3A+Building+Custom+Embeddings+from+Scratch&lang=en&timestamp=1784304021&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=3372 "Deep Dive into NLP: Building Custom Embeddings from Scratch")](https://www.youtube.com/watch?v=TEBOronCoI0)
-[![How LLMs Actually Work: Tokenization Explained](https://ytcards.demolab.com/?id=cRxKVVCXu9E&title=How+LLMs+Actually+Work%3A+Tokenization+Explained&lang=en&timestamp=1784044826&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=2260 "How LLMs Actually Work: Tokenization Explained")](https://www.youtube.com/watch?v=cRxKVVCXu9E)
 <!-- END YOUTUBE-CARDS -->
 
 # ⚡ Tech Focus
