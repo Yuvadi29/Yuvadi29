@@ -99,9 +99,9 @@ Building experiments around:
 
 # 📸Latest Youtube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Coding Ka Sasta Ravi Kishan🕺](https://ytcards.demolab.com/?id=dDAXLG9yesA&title=Coding+Ka+Sasta+Ravi+Kishan%F0%9F%95%BA&lang=en&timestamp=1787152112&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=11 "Coding Ka Sasta Ravi Kishan🕺")](https://www.youtube.com/shorts/dDAXLG9yesA)
 [![Watch This If You Have Started Your Software Engineering Journey!](https://ytcards.demolab.com/?id=tyydYSfDCCo&title=Watch+This+If+You+Have+Started+Your+Software+Engineering+Journey%21&lang=en&timestamp=1787063420&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=2778 "Watch This If You Have Started Your Software Engineering Journey!")](https://www.youtube.com/watch?v=tyydYSfDCCo)
 [![Engineering Course Lene Se Pehle Ye Zaroor Dekho!](https://ytcards.demolab.com/?id=_kKCKJqsr68&title=Engineering+Course+Lene+Se+Pehle+Ye+Zaroor+Dekho%21&lang=en&timestamp=1786945337&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=68 "Engineering Course Lene Se Pehle Ye Zaroor Dekho!")](https://www.youtube.com/shorts/_kKCKJqsr68)
-[![How I Write LinkedIn Posts Using AI ✍️🤖](https://ytcards.demolab.com/?id=E5mQjmnLnlI&title=How+I+Write+LinkedIn+Posts+Using+AI+%E2%9C%8D%EF%B8%8F%F0%9F%A4%96&lang=en&timestamp=1786687223&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=69 "How I Write LinkedIn Posts Using AI ✍️🤖")](https://www.youtube.com/shorts/E5mQjmnLnlI)
 <!-- END YOUTUBE-CARDS -->
 
 # ⚡ Tech Focus
