@@ -129,12 +129,9 @@ The cutting edge stuff:
 # 📸 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Coding Ka Sasta Ravi Kishan🕺](https://ytcards.demolab.com/?id=dDAXLG9yesA&title=Coding+Ka+Sasta+Ravi+Kishan%F0%9F%95%BA&lang=en&timestamp=1787152112&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&height=200&border_radius=4&output=markdown)](https://www.youtube.com/watch?v=dDAXLG9yesA)
-
-[![Watch This If You Have Started Your Software Engineering Journey!](https://ytcards.demolab.com/?id=tyydYSfDCCo&title=Watch+This+If+You+Have+Started+Your+Software+Engineering+Journey%21&lang=en&timestamp=1787066740&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&height=200&border_radius=4&output=markdown)](https://www.youtube.com/watch?v=tyydYSfDCCo)
-
-[![Engineering Course Lene Se Pehle Ye Zaroor Dekho!](https://ytcards.demolab.com/?id=_kKCKJqsr68&title=Engineering+Course+Lene+Se+Pehle+Ye+Zaroor+Dekho%21&lang=en&timestamp=1786945337&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&height=200&border_radius=4&output=markdown)](https://www.youtube.com/watch?v=_kKCKJqsr68)
-
+[![Low Level Design - DRY Principle | Low Level Design Series](https://ytcards.demolab.com/?id=2bQGpmTb0kQ&title=Low+Level+Design+-+DRY+Principle+%7C+Low+Level+Design+Series&lang=en&timestamp=1787668212&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=446 "Low Level Design - DRY Principle | Low Level Design Series")](https://www.youtube.com/watch?v=2bQGpmTb0kQ)
+[![The Best Programming Language to Learn in 2026 💻](https://ytcards.demolab.com/?id=EvBiPjBSFXg&title=The+Best+Programming+Language+to+Learn+in+2026+%F0%9F%92%BB&lang=en&timestamp=1787581823&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=57 "The Best Programming Language to Learn in 2026 💻")](https://www.youtube.com/shorts/EvBiPjBSFXg)
+[![Placement Ke Liye Ye 4 Cheezein Zaroor Karo](https://ytcards.demolab.com/?id=zp0xtGwl2PU&title=Placement+Ke+Liye+Ye+4+Cheezein+Zaroor+Karo&lang=en&timestamp=1787495416&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=63 "Placement Ke Liye Ye 4 Cheezein Zaroor Karo")](https://www.youtube.com/shorts/zp0xtGwl2PU)
 <!-- END YOUTUBE-CARDS -->
 
 <div align="center">
