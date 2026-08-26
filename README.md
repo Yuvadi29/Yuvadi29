@@ -129,9 +129,9 @@ The cutting edge stuff:
 # 📸 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Low Level Design - DRY Principle | Low Level Design Series](https://ytcards.demolab.com/?id=2bQGpmTb0kQ&title=Low+Level+Design+-+DRY+Principle+%7C+Low+Level+Design+Series&lang=en&timestamp=1787668212&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=446 "Low Level Design - DRY Principle | Low Level Design Series")](https://www.youtube.com/watch?v=2bQGpmTb0kQ)
+[![Stop Solving Random DSA Problems. Do This Instead!](https://ytcards.demolab.com/?id=SqHgfWeEz0U&title=Stop+Solving+Random+DSA+Problems.+Do+This+Instead%21&lang=en&timestamp=1787754624&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=11 "Stop Solving Random DSA Problems. Do This Instead!")](https://www.youtube.com/shorts/SqHgfWeEz0U)
+[![DRY Principle Explained In 7 Minutes | Low Level Design Series](https://ytcards.demolab.com/?id=2bQGpmTb0kQ&title=DRY+Principle+Explained+In+7+Minutes+%7C+Low+Level+Design+Series&lang=en&timestamp=1787668212&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=446 "DRY Principle Explained In 7 Minutes | Low Level Design Series")](https://www.youtube.com/watch?v=2bQGpmTb0kQ)
 [![The Best Programming Language to Learn in 2026 💻](https://ytcards.demolab.com/?id=EvBiPjBSFXg&title=The+Best+Programming+Language+to+Learn+in+2026+%F0%9F%92%BB&lang=en&timestamp=1787581823&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=57 "The Best Programming Language to Learn in 2026 💻")](https://www.youtube.com/shorts/EvBiPjBSFXg)
-[![Placement Ke Liye Ye 4 Cheezein Zaroor Karo](https://ytcards.demolab.com/?id=zp0xtGwl2PU&title=Placement+Ke+Liye+Ye+4+Cheezein+Zaroor+Karo&lang=en&timestamp=1787495416&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=63 "Placement Ke Liye Ye 4 Cheezein Zaroor Karo")](https://www.youtube.com/shorts/zp0xtGwl2PU)
 <!-- END YOUTUBE-CARDS -->
 
 <div align="center">
