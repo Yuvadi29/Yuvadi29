@@ -129,9 +129,9 @@ The cutting edge stuff:
 # 📸 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Strings Explained For Beginners 🔥](https://ytcards.demolab.com/?id=XV7lMjmq2e8&title=Strings+Explained+For+Beginners+%F0%9F%94%A5&lang=en&timestamp=1788359425&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=50 "Strings Explained For Beginners 🔥")](https://www.youtube.com/shorts/XV7lMjmq2e8)
 [![KISS Principle Explained | Low Level Design Series](https://ytcards.demolab.com/?id=EOuw4kP9NH0&title=KISS+Principle+Explained+%7C+Low+Level+Design+Series&lang=en&timestamp=1788273022&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=631 "KISS Principle Explained | Low Level Design Series")](https://www.youtube.com/watch?v=EOuw4kP9NH0)
 [![Dynamic Arrays Explained in Simple Terms](https://ytcards.demolab.com/?id=dXV3D0W9fz0&title=Dynamic+Arrays+Explained+in+Simple+Terms&lang=en&timestamp=1788186632&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=52 "Dynamic Arrays Explained in Simple Terms")](https://www.youtube.com/shorts/dXV3D0W9fz0)
-[![Arrays Explained From Scratch | DSA Concept](https://ytcards.demolab.com/?id=7lDp43YDhm0&title=Arrays+Explained+From+Scratch+%7C+DSA+Concept&lang=en&timestamp=1788100202&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=52 "Arrays Explained From Scratch | DSA Concept")](https://www.youtube.com/shorts/7lDp43YDhm0)
 <!-- END YOUTUBE-CARDS -->
 
 <div align="center">
