@@ -129,9 +129,9 @@ The cutting edge stuff:
 # 📸 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Doubly Linked List Explained Simply 🧠](https://ytcards.demolab.com/?id=TMsbTrtOQxA&title=Doubly+Linked+List+Explained+Simply+%F0%9F%A7%A0&lang=en&timestamp=1788964218&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=59 "Doubly Linked List Explained Simply 🧠")](https://www.youtube.com/shorts/TMsbTrtOQxA)
 [![YAGNI Principle Explained | Low Level Design Series](https://ytcards.demolab.com/?id=H3Uxray-RsM&title=YAGNI+Principle+Explained+%7C+Low+Level+Design+Series&lang=en&timestamp=1788877839&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=363 "YAGNI Principle Explained | Low Level Design Series")](https://www.youtube.com/watch?v=H3Uxray-RsM)
 [![Linked List Data Structure Explained 🔥](https://ytcards.demolab.com/?id=eCLS6EJcKCU&title=Linked+List+Data+Structure+Explained+%F0%9F%94%A5&lang=en&timestamp=1788791425&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=62 "Linked List Data Structure Explained 🔥")](https://www.youtube.com/shorts/eCLS6EJcKCU)
-[![Record vs Struct Easily Explained For Beginners](https://ytcards.demolab.com/?id=50pOvOnEXyg&title=Record+vs+Struct+Easily+Explained+For+Beginners&lang=en&timestamp=1788705032&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=60 "Record vs Struct Easily Explained For Beginners")](https://www.youtube.com/shorts/50pOvOnEXyg)
 <!-- END YOUTUBE-CARDS -->
 
 <div align="center">
