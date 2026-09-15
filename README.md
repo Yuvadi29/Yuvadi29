@@ -129,9 +129,9 @@ The cutting edge stuff:
 # 📸 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Doubly Linked List Explained Simply 🧠](https://ytcards.demolab.com/?id=TMsbTrtOQxA&title=Doubly+Linked+List+Explained+Simply+%F0%9F%A7%A0&lang=en&timestamp=1788964218&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=59 "Doubly Linked List Explained Simply 🧠")](https://www.youtube.com/shorts/TMsbTrtOQxA)
-[![YAGNI Principle Explained | Low Level Design Series](https://ytcards.demolab.com/?id=H3Uxray-RsM&title=YAGNI+Principle+Explained+%7C+Low+Level+Design+Series&lang=en&timestamp=1788877839&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=363 "YAGNI Principle Explained | Low Level Design Series")](https://www.youtube.com/watch?v=H3Uxray-RsM)
-[![Linked List Data Structure Explained 🔥](https://ytcards.demolab.com/?id=eCLS6EJcKCU&title=Linked+List+Data+Structure+Explained+%F0%9F%94%A5&lang=en&timestamp=1788791425&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=62 "Linked List Data Structure Explained 🔥")](https://www.youtube.com/shorts/eCLS6EJcKCU)
+[![Stack Explained In 60 Seconds ⏱️](https://ytcards.demolab.com/?id=MFpiRaTRt4A&title=Stack+Explained+In+60+Seconds+%E2%8F%B1%EF%B8%8F&lang=en&timestamp=1789396236&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=63 "Stack Explained In 60 Seconds ⏱️")](https://www.youtube.com/shorts/MFpiRaTRt4A)
+[![Will AI Kill DSA Interviews? (*Harsh Reality*)](https://ytcards.demolab.com/?id=TXvV5t6dnd4&title=Will+AI+Kill+DSA+Interviews%3F+%28%2AHarsh+Reality%2A%29&lang=en&timestamp=1789137028&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=726 "Will AI Kill DSA Interviews? (*Harsh Reality*)")](https://www.youtube.com/watch?v=TXvV5t6dnd4)
+[![🔄 Circular Linked List Explained](https://ytcards.demolab.com/?id=HOWWZ944CT4&title=%F0%9F%94%84+Circular+Linked+List+Explained&lang=en&timestamp=1789050638&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=59 "🔄 Circular Linked List Explained")](https://www.youtube.com/shorts/HOWWZ944CT4)
 <!-- END YOUTUBE-CARDS -->
 
 <div align="center">
