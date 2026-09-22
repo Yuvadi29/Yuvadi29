@@ -129,9 +129,9 @@ The cutting edge stuff:
 # 📸 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![What Is a Queue in Data Structures? 📚](https://ytcards.demolab.com/?id=a2F-9KjJm_4&title=What+Is+a+Queue+in+Data+Structures%3F+%F0%9F%93%9A&lang=en&timestamp=1789569027&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=50 "What Is a Queue in Data Structures? 📚")](https://www.youtube.com/shorts/a2F-9KjJm_4)
-[![Stack Explained In 60 Seconds ⏱️](https://ytcards.demolab.com/?id=MFpiRaTRt4A&title=Stack+Explained+In+60+Seconds+%E2%8F%B1%EF%B8%8F&lang=en&timestamp=1789396236&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=63 "Stack Explained In 60 Seconds ⏱️")](https://www.youtube.com/shorts/MFpiRaTRt4A)
-[![Will AI Kill DSA Interviews? (*Harsh Reality*)](https://ytcards.demolab.com/?id=TXvV5t6dnd4&title=Will+AI+Kill+DSA+Interviews%3F+%28%2AHarsh+Reality%2A%29&lang=en&timestamp=1789137028&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=726 "Will AI Kill DSA Interviews? (*Harsh Reality*)")](https://www.youtube.com/watch?v=TXvV5t6dnd4)
+[![Top JavaScript Interview Questions 2026 (*Placement Guaranteed*)](https://ytcards.demolab.com/?id=ETSukkSyJA8&title=Top+JavaScript+Interview+Questions+2026+%28%2APlacement+Guaranteed%2A%29&lang=en&timestamp=1790087422&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=1979 "Top JavaScript Interview Questions 2026 (*Placement Guaranteed*)")](https://www.youtube.com/watch?v=ETSukkSyJA8)
+[![Hash Map Explained in 1 Minute ⚡](https://ytcards.demolab.com/?id=Nu6GbauA7oU&title=Hash+Map+Explained+in+1+Minute+%E2%9A%A1&lang=en&timestamp=1790001032&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=65 "Hash Map Explained in 1 Minute ⚡")](https://www.youtube.com/shorts/Nu6GbauA7oU)
+[![🚀 Hash Table Explained In 1 Minute](https://ytcards.demolab.com/?id=XQx2v16a0GE&title=%F0%9F%9A%80+Hash+Table+Explained+In+1+Minute&lang=en&timestamp=1789914631&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=59 "🚀 Hash Table Explained In 1 Minute")](https://www.youtube.com/shorts/XQx2v16a0GE)
 <!-- END YOUTUBE-CARDS -->
 
 <div align="center">
