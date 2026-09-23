@@ -129,9 +129,9 @@ The cutting edge stuff:
 # 📸 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![HashSet Explained in 60 Seconds ⚡](https://ytcards.demolab.com/?id=8nk72MzzmS0&title=HashSet+Explained+in+60+Seconds+%E2%9A%A1&lang=en&timestamp=1790173809&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=61 "HashSet Explained in 60 Seconds ⚡")](https://www.youtube.com/shorts/8nk72MzzmS0)
 [![Top JavaScript Interview Questions 2026 (*Placement Guaranteed*)](https://ytcards.demolab.com/?id=ETSukkSyJA8&title=Top+JavaScript+Interview+Questions+2026+%28%2APlacement+Guaranteed%2A%29&lang=en&timestamp=1790087422&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=1979 "Top JavaScript Interview Questions 2026 (*Placement Guaranteed*)")](https://www.youtube.com/watch?v=ETSukkSyJA8)
 [![Hash Map Explained in 1 Minute ⚡](https://ytcards.demolab.com/?id=Nu6GbauA7oU&title=Hash+Map+Explained+in+1+Minute+%E2%9A%A1&lang=en&timestamp=1790001032&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=65 "Hash Map Explained in 1 Minute ⚡")](https://www.youtube.com/shorts/Nu6GbauA7oU)
-[![🚀 Hash Table Explained In 1 Minute](https://ytcards.demolab.com/?id=XQx2v16a0GE&title=%F0%9F%9A%80+Hash+Table+Explained+In+1+Minute&lang=en&timestamp=1789914631&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=59 "🚀 Hash Table Explained In 1 Minute")](https://www.youtube.com/shorts/XQx2v16a0GE)
 <!-- END YOUTUBE-CARDS -->
 
 <div align="center">
