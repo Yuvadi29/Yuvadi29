@@ -129,9 +129,9 @@ The cutting edge stuff:
 # 📸 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![The Secret Behind AVL Trees Rotations 🔄](https://ytcards.demolab.com/?id=qqJ6k8w2LmE&title=The+Secret+Behind+AVL+Trees+Rotations+%F0%9F%94%84&lang=en&timestamp=1790778601&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=77 "The Secret Behind AVL Trees Rotations 🔄")](https://www.youtube.com/shorts/qqJ6k8w2LmE)
-[![SOLID Principles Explained in One Shot](https://ytcards.demolab.com/?id=l3en3ABajYw&title=SOLID+Principles+Explained+in+One+Shot&lang=en&timestamp=1790697800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=1422 "SOLID Principles Explained in One Shot")](https://www.youtube.com/watch?v=l3en3ABajYw)
-[![🌳 Binary Search Tree Explained in 1 Minute 🔍](https://ytcards.demolab.com/?id=_mJn7c94F70&title=%F0%9F%8C%B3+Binary+Search+Tree+Explained+in+1+Minute+%F0%9F%94%8D&lang=en&timestamp=1790605828&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=54 "🌳 Binary Search Tree Explained in 1 Minute 🔍")](https://www.youtube.com/shorts/_mJn7c94F70)
+[![B-Trees Explained in 1 Minute 🌳](https://ytcards.demolab.com/?id=_G-0YcrIPJM&title=B-Trees+Explained+in+1+Minute+%F0%9F%8C%B3&lang=en&timestamp=1791037817&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=38 "B-Trees Explained in 1 Minute 🌳")](https://www.youtube.com/shorts/_G-0YcrIPJM)
+[![How Moving to Bengaluru CHANGED My Life! (*Sad Reality*)](https://ytcards.demolab.com/?id=WMit1HCCzR0&title=How+Moving+to+Bengaluru+CHANGED+My+Life%21+%28%2ASad+Reality%2A%29&lang=en&timestamp=1790951412&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=786 "How Moving to Bengaluru CHANGED My Life! (*Sad Reality*)")](https://www.youtube.com/watch?v=WMit1HCCzR0)
+[![Red Black Tree In 60 Seconds ⚡](https://ytcards.demolab.com/?id=bqQKtDhrLNo&title=Red+Black+Tree+In+60+Seconds+%E2%9A%A1&lang=en&timestamp=1790865020&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=54 "Red Black Tree In 60 Seconds ⚡")](https://www.youtube.com/shorts/bqQKtDhrLNo)
 <!-- END YOUTUBE-CARDS -->
 
 <div align="center">
