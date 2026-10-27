@@ -129,9 +129,9 @@ The cutting edge stuff:
 # 📸 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![How I Cracked an AI Interview in 2026 (My Honest Interview Experience)](https://ytcards.demolab.com/?id=Gt83RWzdViw&title=How+I+Cracked+an+AI+Interview+in+2026+%28My+Honest+Interview+Experience%29&lang=en&timestamp=1793111412&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=1119 "How I Cracked an AI Interview in 2026 (My Honest Interview Experience)")](https://www.youtube.com/watch?v=Gt83RWzdViw)
 [![What's Next? - What To Do After College in 2026 | w/ Harshi Shah | Coding Adda](https://ytcards.demolab.com/?id=PUvoTe3digU&title=What%27s+Next%3F+-+What+To+Do+After+College+in+2026+%7C+w%2F+Harshi+Shah+%7C+Coding+Adda&lang=en&timestamp=1792161035&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=2707 "What's Next? - What To Do After College in 2026 | w/ Harshi Shah | Coding Adda")](https://www.youtube.com/watch?v=PUvoTe3digU)
 [![AI Full Stack Developer Roadmap for 2026 🚀 | w/ @codebysuraj | Coding Adda](https://ytcards.demolab.com/?id=fthAAxvkLq4&title=AI+Full+Stack+Developer+Roadmap+for+2026+%F0%9F%9A%80+%7C+w%2F+%40codebysuraj+%7C+Coding+Adda&lang=en&timestamp=1791556230&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=2319 "AI Full Stack Developer Roadmap for 2026 🚀 | w/ @codebysuraj | Coding Adda")](https://www.youtube.com/watch?v=fthAAxvkLq4)
-[![B-Trees Explained in 1 Minute 🌳](https://ytcards.demolab.com/?id=_G-0YcrIPJM&title=B-Trees+Explained+in+1+Minute+%F0%9F%8C%B3&lang=en&timestamp=1791037817&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=38 "B-Trees Explained in 1 Minute 🌳")](https://www.youtube.com/shorts/_G-0YcrIPJM)
 <!-- END YOUTUBE-CARDS -->
 
 <div align="center">
