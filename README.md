@@ -1,346 +1,102 @@
 <div align="center">
 
-# ⚡ ADITYA TRIVEDI
+<p><sub>WOW PROFILE · YUVADI29 · LIVE</sub></p>
 
-### 🤖 AI Engineer × 🎓 Educator × 🎬 Content Creator
-
-### Building AI • Teaching AI • Talking AI
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4F8BFF&center=true&vCenter=true&width=700&lines=AI+Engineer;Product+Builder;Podcast+Host;Open+Source+Enthusiast;Coffee+%7C%7C+Code;Debug+Mode+%3A+ON" />
-
-<br>
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║  Welcome to my digital universe 🌌                            ║
-║  Where LLMs meet creativity & bugs become features 🐛✨      ║
-║  Powered by caffeine ☕ and curiosity 🧠                      ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-<br>
-
-<!-- Social Links -->
-<a href="https://youtube.com/@coding_adda">
-<img src="https://img.shields.io/badge/🎥_YouTube-Coding_Adda-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/adityat1702/">
-<img src="https://img.shields.io/badge/💼_LinkedIn-Aditya_Trivedi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:letstalkaditya@gmail.com">
-<img src="https://img.shields.io/badge/📧_Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://twitter.com/Yuvadi29">
-<img src="https://img.shields.io/badge/𝕏_Twitter-@Yuvadi29-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<br><br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Yuvadi29&color=blueviolet&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/Yuvadi29?label=Follow&style=social)](https://github.com/Yuvadi29)
-
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=yuvadi29&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80524895%3Fu%3D636579e668ed8c0fa7a189e2311fe2d3d673ba2c%26v%3D4&variant=living-identity&label=Aditya%20Trivedi&v=wow-living-identity-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=yuvadi29&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80524895%3Fu%3D636579e668ed8c0fa7a189e2311fe2d3d673ba2c%26v%3D4&variant=living-identity&label=Aditya%20Trivedi&v=wow-living-identity-1&mode=dark" width="100%" alt="Aditya Trivedi animated Living Identity portrait and ASCII name" />
+</picture>
+<p><strong>Frontend or full-stack engineer</strong> · Bengaluru</p>
+<p>Educator | Developer | Author | 15k+ Tech Community |</p>
+<p><a href="https://github.com/yuvadi29">GitHub</a> &nbsp;·&nbsp; <a href="https://adityatrivedi.in/">Website</a></p>
 </div>
 
----
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-# 🧠 About Me
+<h2>Identity, with signal</h2>
 
-I'm an **AI Engineer** obsessed with building practical AI products powered by **LLMs**, **RAG systems**, **AI Agents**, and modern web technologies. 
+<table width="100%" style="display:table;width:100%;table-layout:fixed;">
+<tr>
+<td width="62%" valign="top"><p>Educator | Developer | Author | 15k+ Tech Community |</p><p><strong>Focus:</strong> `JavaScript` · `TypeScript` · `CSS`</p><p><sub>Thoughtful collaboration, ambitious products, and useful open source.</sub></p></td>
+<td width="38%" valign="top"><p><code>LIVE SIGNAL</code></p><p><strong>106</strong> repos<br /><strong>40</strong> stars<br /><strong>645</strong> contributions<br /><strong>79</strong> followers</p></td>
+</tr>
+</table>
 
-By day, I'm architecting AI solutions. By night, I'm running **[Coding Adda](https://www.youtube.com/@Coding_Adda)**, where I break down complex AI concepts into bite-sized, digestible content that actually makes sense! 🎬
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-<details open>
-<summary><b>📋 The Technical Breakdown</b></summary>
+<h2>What moves the work</h2>
 
-```bash
-$ whoami
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Name      : Aditya Trivedi 🚀
-Role      : AI Engineer | Educator | Creator
-Focus     : LLM Applications & AI Products
-Interests : AI Agents, RAG, Prompt Engineering, System Design
-Mission   : Make AI Easy & Accessible for Everyone
-Status    : Always Learning 📚
-Fuel      : Coffee ☕ + Curiosity 🧠
-Bug Found : Not a bug, it's a feature! 🎉
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=yuvadi29&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80524895%3Fu%3D636579e668ed8c0fa7a189e2311fe2d3d673ba2c%26v%3D4&items=JavaScript%3A%3ACurrent%20focus%7CTypeScript%3A%3AIn%20the%20build%20queue%7CCSS%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=yuvadi29&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80524895%3Fu%3D636579e668ed8c0fa7a189e2311fe2d3d673ba2c%26v%3D4&items=JavaScript%3A%3ACurrent%20focus%7CTypeScript%3A%3AIn%20the%20build%20queue%7CCSS%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=dark" width="100%" alt="Aditya Trivedi animated profile highlights" />
+</picture>
 
-</details>
+<p align="center"><sub>Positioning is useful when the proof is close behind it.</sub></p>
 
----
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-# 🚀 What I'm Building (The Crazy Stuff)
+<h2>The tools behind the signal</h2>
 
-### 🎬 Studio - AI Power for Content Creators
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=yuvadi29&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80524895%3Fu%3D636579e668ed8c0fa7a189e2311fe2d3d673ba2c%26v%3D4&variant=wow&v=wow-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=yuvadi29&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80524895%3Fu%3D636579e668ed8c0fa7a189e2311fe2d3d673ba2c%26v%3D4&variant=wow&v=wow-stack-1&mode=dark" width="100%" alt="Aditya Trivedi animated technology stack" />
+</picture>
 
-| Feature | Description |
-|---------|-------------|
-| 🎥 Video Processing | Analyze video content like a pro |
-| 🤖 AI Titles | Generate titles that actually get clicks |
-| 🎨 Thumbnails | AI-powered thumbnail ideas |
-| 📑 Chapters | Auto-generate video chapters |
-| 📝 Descriptions | SEO-optimized descriptions |
-| 🧠 Local LLM | Keep your data private! |
+<p align="center"><sub>JavaScript · TypeScript · CSS · SCSS · Java · HTML · C++ · CMake · chosen for the work, not the trend</sub></p>
 
-</div>
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
----
+<h2>Built, shipped, shared</h2>
 
-### 🤖 PromptOS - The Prompt Engineering Platform
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=yuvadi29&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80524895%3Fu%3D636579e668ed8c0fa7a189e2311fe2d3d673ba2c%26v%3D4&repos=yuvadi29%2FPromptOS%2Cyuvadi29%2FGithub-Actions-Series%2Cyuvadi29%2FRedis%2Cyuvadi29%2FSecond-Brain&variant=wow&v=wow-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=yuvadi29&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80524895%3Fu%3D636579e668ed8c0fa7a189e2311fe2d3d673ba2c%26v%3D4&repos=yuvadi29%2FPromptOS%2Cyuvadi29%2FGithub-Actions-Series%2Cyuvadi29%2FRedis%2Cyuvadi29%2FSecond-Brain&variant=wow&v=wow-projects-1&mode=dark" width="100%" alt="Aditya Trivedi animated project constellation" />
+</picture>
 
-**Supercharge your prompts with AI!**
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=yuvadi29&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80524895%3Fu%3D636579e668ed8c0fa7a189e2311fe2d3d673ba2c%26v%3D4&repos=yuvadi29%2FPromptOS%2Cyuvadi29%2FGithub-Actions-Series%2Cyuvadi29%2FRedis%2Cyuvadi29%2FSecond-Brain&variant=wow-timeline&v=wow-timeline-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=yuvadi29&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80524895%3Fu%3D636579e668ed8c0fa7a189e2311fe2d3d673ba2c%26v%3D4&repos=yuvadi29%2FPromptOS%2Cyuvadi29%2FGithub-Actions-Series%2Cyuvadi29%2FRedis%2Cyuvadi29%2FSecond-Brain&variant=wow-timeline&v=wow-timeline-1&mode=dark" width="100%" alt="Aditya Trivedi animated project launch timeline" />
+</picture>
 
-```
-┌─ Enhance     ─────→ Better Prompts
-├─ Score       ─────→ Quality Metrics
-├─ Compare     ─────→ LLM Battle
-├─ Library     ─────→ Prompt Collection
-└─ Feedback    ─────→ Improvement Loop
-```
+<table width="100%">
+<tr>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/Yuvadi29/PromptOS">PromptOS</a></strong></p><p>PromptOS is a centralized prompt intelligence system that understands, evolves, and adapts across domains. Acting as a Prompt Operating System, it con</p><p><sub>TypeScript · ⭐ 18</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/Yuvadi29/Github-Actions-Series">Github-Actions-Series</a></strong></p><p>This is a deep dive series on understanding Github Actions</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/Yuvadi29/Redis">Redis</a></strong></p><p>This is an end-to-end understanding of what is Redis, how it works and it's implementation.</p><p><sub>HTML · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/Yuvadi29/Second-Brain">Second-Brain</a></strong></p><p>This is a project which is my personal vault to chat with my knowledge base.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-</div>
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
----
+<h2>Momentum, made visible</h2>
 
-### 🔍 Chat With YouTube - RAG on Steroids
-Semantic search across YouTube transcripts with:
-- 🎯 RAG (Retrieval Augmented Generation)
-- 🧮 Smart Embeddings
-- 📊 Vector Search Magic
-- ⏰ Timestamp Retrieval (Find exactly when!)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=yuvadi29&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80524895%3Fu%3D636579e668ed8c0fa7a189e2311fe2d3d673ba2c%26v%3D4&variant=wow&v=wow-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=yuvadi29&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80524895%3Fu%3D636579e668ed8c0fa7a189e2311fe2d3d673ba2c%26v%3D4&variant=wow&v=wow-stats-1&mode=dark" width="100%" alt="Aditya Trivedi animated GitHub signal" />
+</picture>
 
----
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-### 🧠 AI Agents & MCP Experiments
-The cutting edge stuff:
-- 🤖 Autonomous AI Agents
-- 🔌 MCP Server Architecture
-- 🛠️ Tool Calling Mastery
-- ⚙️ Workflow Automation
+<h2>The trail behind the work</h2>
 
----
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=yuvadi29&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80524895%3Fu%3D636579e668ed8c0fa7a189e2311fe2d3d673ba2c%26v%3D4&variant=wow&v=wow-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=yuvadi29&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80524895%3Fu%3D636579e668ed8c0fa7a189e2311fe2d3d673ba2c%26v%3D4&variant=wow&v=wow-heatmap-1&mode=dark" width="100%" alt="Aditya Trivedi contribution energy field" />
+</picture>
 
-# 📸 Latest YouTube Videos
+<p align="center"><sub>4 day current streak · 144 active days</sub></p>
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![🚨 Microsoft Layoffs 2026 🤖](https://ytcards.demolab.com/?id=TNDZT-mI2gk&title=%F0%9F%9A%A8+Microsoft+Layoffs+2026+%F0%9F%A4%96&lang=en&timestamp=1793197814&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=58 "🚨 Microsoft Layoffs 2026 🤖")](https://www.youtube.com/shorts/TNDZT-mI2gk)
-[![How I Cracked an AI Interview in 2026 (My Honest Interview Experience)](https://ytcards.demolab.com/?id=Gt83RWzdViw&title=How+I+Cracked+an+AI+Interview+in+2026+%28My+Honest+Interview+Experience%29&lang=en&timestamp=1793111412&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=1119 "How I Cracked an AI Interview in 2026 (My Honest Interview Experience)")](https://www.youtube.com/watch?v=Gt83RWzdViw)
-[![What's Next? - What To Do After College in 2026 | w/ Harshi Shah | Coding Adda](https://ytcards.demolab.com/?id=PUvoTe3digU&title=What%27s+Next%3F+-+What+To+Do+After+College+in+2026+%7C+w%2F+Harshi+Shah+%7C+Coding+Adda&lang=en&timestamp=1792161035&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=10&duration=2707 "What's Next? - What To Do After College in 2026 | w/ Harshi Shah | Coding Adda")](https://www.youtube.com/watch?v=PUvoTe3digU)
-<!-- END YOUTUBE-CARDS -->
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
 <div align="center">
-
-### ▶️ [Watch More on YouTube](https://youtube.com/@coding_adda)
-
-</div>
-
----
-
-# 💻 Tech Stack (The Arsenal)
-
-<details open>
-<summary><b>Click to expand the full tech toolkit 🛠️</b></summary>
-
-### 🤖 AI & LLM Engineering
-![Gemini](https://img.shields.io/badge/Gemini-8E75B6?style=flat-square&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat-square&logo=openai&logoColor=white)
-![Embeddings](https://img.shields.io/badge/Embeddings-4F46E5?style=flat-square)
-![Vector DB](https://img.shields.io/badge/Vector_DB-00C7B7?style=flat-square)
-![Prompt Eng.](https://img.shields.io/badge/Prompt_Eng.-FFB84D?style=flat-square)
-![AI Agents](https://img.shields.io/badge/AI_Agents-9B59B6?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-2E7D32?style=flat-square)
-
-### 🔧 Backend Engineering
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-### 🎨 Frontend Magic
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### 📊 Databases & Storage
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=flat-square&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-</details>
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Yuvadi29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvadi29&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvadi29&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🎙️ Podcast & Content
-
-### 🎬 What I Create
-- 📹 **YouTube Videos** - AI, Engineering, System Design, Careers
-- 🎙️ **Podcasts** - Deep dives with interesting people
-- 📚 **Blog Posts** - Technical writing & AI insights
-- 💻 **Open Source** - Contributing to community projects
-
-### 📕 Published Works
-**[Basics of Prompt Engineering](https://amzn.in/d/05ShB7WT)** - A practical guide for beginners! 🚀
-
----
-
-# 🎯 My Developer Philosophy
-
-<div align="center">
-
-```javascript
-const myPhilosophy = {
-  code: "Clean, readable, and well-documented",
-  debugging: "Console.log() is my meditation 🧘",
-  learning: "Never stop exploring",
-  community: "Share knowledge generously",
-  innovation: "Build products, not just code",
-  happiness: "If it compiles, ship it! 🚀",
-  
-  getMessage() {
-    return "Every line of code tells a story!";
-  }
-};
-
-// Execute with passion
-while(true) {
-  learn();
-  build();
-  share();
-  repeat();
-}
-```
-
-</div>
-
----
-
-# 🌟 Fun Facts About Me
-
-<details>
-<summary><b>Click to reveal the crazy stuff 🤪</b></summary>
-
-- 🐛 I've debugged code at 3 AM more times than I'd like to admit
-- ☕ Coffee is one of my five food groups
-- 🎮 Video games taught me more about problem-solving than school
-- 🚀 I genuinely believe AI will change everything
-- 📱 I can't start my day without checking GitHub
-- 🤖 My favorite conversation partner is ChatGPT (just kidding... mostly)
-- 🎯 I've rewritten code more times than I've written it right the first time
-- 📚 Books > tutorials (but videos are my weakness)
-- 🌙 I'm most productive late at night
-- 💡 "It works on my machine" is my life's catchphrase
-
-</details>
-
----
-
-# 🌍 Vision & Mission
-
-```
-╔════════════════════════════════════════╗
-║           THE MASTER PLAN              ║
-╠════════════════════════════════════════╣
-║ 1️⃣  Build Revolutionary AI Products   ║
-║ 2️⃣  Teach Developers & Creators       ║
-║ 3️⃣  Create Engaging Content           ║
-║ 4️⃣  Contribute to Open Source         ║
-║ 5️⃣  Repeat Until World Domination ✨ ║
-║                                        ║
-║      (Just kidding about #5... 😄)     ║
-╚════════════════════════════════════════╝
-```
-
----
-
-# 💭 Current Status
-
-```
-⏰ Working on    : AI Agents & RAG Systems
-🌱 Learning      : Advanced Prompt Engineering
-💬 Ask me about  : LLMs, AI, System Design, Why my code is perfect
-🤝 Collaborating : Open to AI & web dev projects
-📚 Reading       : Everything about AI & Startups
-⚡ Fun fact      : I have more GitHub repos than social life 😅
-```
-
----
-
-<div align="center">
-
-# 📫 Let's Connect & Collaborate!
-
-<a href="https://youtube.com/@coding_adda">
-<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/adityat1702/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:letstalkaditya@gmail.com">
-<img src="https://img.shields.io/badge/Email-Write_to_me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://twitter.com/Yuvadi29">
-<img src="https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<br><br>
-
-### 🎓 Want to learn AI? Check out [Coding Adda](https://youtube.com/@coding_adda)
-### 💼 Looking to collaborate? [Let's connect on LinkedIn](https://www.linkedin.com/in/adityat1702/)
-### 💬 Have questions? [Send me an email](mailto:letstalkaditya@gmail.com)
-
-<br>
-
-**Made with 💜 and powered by ☕ + 🧠**
-
-<img src="https://komarev.com/ghpvc/?username=Yuvadi29&style=for-the-badge&color=blueviolet" />
-
-<br><br>
-
-### ⭐ If you found this profile cool, consider starring my repos! ⭐
-
----
-
-**P.S.** - If you're reading this, you're awesome! Have a great day! 🚀✨
-
+<p><sub>KEEP THE SIGNAL MOVING</sub></p>
+<h2>Make something worth noticing</h2>
+<p>I like working with people who care about craft, context, and shipping the useful version.</p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=yuvadi29&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80524895%3Fu%3D636579e668ed8c0fa7a189e2311fe2d3d673ba2c%26v%3D4&website=https%3A%2F%2Fadityatrivedi.in%2F&variant=wow&v=wow-social-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=yuvadi29&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80524895%3Fu%3D636579e668ed8c0fa7a189e2311fe2d3d673ba2c%26v%3D4&website=https%3A%2F%2Fadityatrivedi.in%2F&variant=wow&v=wow-social-1&mode=dark" width="100%" alt="Aditya Trivedi contact links" />
+</picture>
+<p><a href="https://github.com/yuvadi29">GitHub</a> &nbsp;·&nbsp; <a href="https://adityatrivedi.in/">Website</a></p>
+<p><sub>Aditya Trivedi · Wow Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 </div>
