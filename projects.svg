@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-label="ps — running projects">
+<style>
+  text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace;fill:#c9d6f2}
+  .dim{fill:#5b6b8c} .g{fill:#39ff88} .c{fill:#22d3ee} .p{fill:#ff3df2} .a{fill:#ffb020}
+  .b{font-weight:700}
+  .in{opacity:0;animation:in .45s ease-out forwards}
+  .slide{opacity:0;animation:slide .6s cubic-bezier(.2,.8,.2,1) forwards}
+  .blink{animation:blink 1s steps(1) infinite}
+  @keyframes in{to{opacity:1}}
+  .out{animation:out .1s forwards}@keyframes out{to{opacity:0}}
+  @keyframes slide{from{opacity:0;transform:translateX(-24px)}to{opacity:1;transform:none}}
+  @keyframes blink{50%{opacity:0}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important;opacity:1!important}}
+  .sweep{animation:sweep 6s linear infinite}@keyframes sweep{from{transform:translateY(-120px)}to{transform:translateY(600px)}}
+</style>
+<defs>
+  <linearGradient id="bgG" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1220"/><stop offset="1" stop-color="#07090f"/></linearGradient>
+  <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#fff" opacity=".035"/></pattern>
+  <linearGradient id="sweepG" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#39ff88" stop-opacity="0"/><stop offset=".5" stop-color="#39ff88" stop-opacity=".07"/><stop offset="1" stop-color="#39ff88" stop-opacity="0"/></linearGradient>
+  <filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="win"><rect x="1" y="1" width="1198" height="478" rx="14"/></clipPath>
+  
+</defs>
+<g clip-path="url(#win)">
+  <rect width="1200" height="480" fill="url(#bgG)"/>
+  <rect width="1200" height="38" fill="#0a0f1a"/><rect y="38" width="1200" height="1" fill="#1b2335"/>
+  <circle cx="24" cy="19" r="6" fill="#ff5f57"/><circle cx="44" cy="19" r="6" fill="#ffb020"/><circle cx="64" cy="19" r="6" fill="#39ff88"/>
+  <text x="600" y="24" text-anchor="middle" font-size="13" class="dim">ps — running projects</text>
+  <text x="40" y="74" font-size="15"><tspan class="p b">❯</tspan> <tspan class="dim">ps aux --sort=-impact | grep</tspan> <tspan class="c">shipped</tspan></text><rect x="30" y="94" width="1140" height="24" fill="#39ff88" opacity=".9"/><text x="44" y="111" font-size="13" class="b" style="fill:#07090f">PID</text><text x="130" y="111" font-size="13" class="b" style="fill:#07090f">STAT</text><text x="210" y="111" font-size="13" class="b" style="fill:#07090f">★</text><text x="280" y="111" font-size="13" class="b" style="fill:#07090f">LANG</text><text x="430" y="111" font-size="13" class="b" style="fill:#07090f">COMMAND</text><g class="slide" style="animation-delay:0.40s">
+      
+      <text x="44" y="142" font-size="15" class="dim">1000</text>
+      <circle cx="136" cy="137" r="5" fill="#39ff88" class="blink" style="animation-delay:0s"/><text x="148" y="142" font-size="15" class="g">R</text>
+      <text x="210" y="142" font-size="15" class="a b">18</text>
+      <circle cx="286" cy="137" r="6" fill="#3178c6"/><text x="298" y="142" font-size="14">TypeScript</text>
+      <text x="430" y="142" font-size="17" class="b c">./PromptOS</text>
+      <text x="430" y="164" font-size="13" class="dim">PromptOS is a centralized prompt intelligence system that understands, evolves, and</text><text x="430" y="183" font-size="13" class="dim">adapts across domains. Acting as a Prompt Operating System.</text>
+    </g><g class="slide" style="animation-delay:0.65s">
+      <rect x="30" y="200" width="1140" height="74" fill="#fff" opacity=".02"/>
+      <text x="44" y="220" font-size="15" class="dim">1337</text>
+      <circle cx="136" cy="215" r="5" fill="#39ff88" class="blink" style="animation-delay:0.3s"/><text x="148" y="220" font-size="15" class="g">R</text>
+      <text x="210" y="220" font-size="15" class="a b">0</text>
+      <circle cx="286" cy="215" r="6" fill="#3178c6"/><text x="298" y="220" font-size="14">TypeScript</text>
+      <text x="430" y="220" font-size="17" class="b c">./Second-Brain</text>
+      <text x="430" y="242" font-size="13" class="dim">This is a project which is my personal vault to chat with my knowledge base.</text>
+    </g><g class="slide" style="animation-delay:0.90s">
+      
+      <text x="44" y="298" font-size="15" class="dim">1674</text>
+      <circle cx="136" cy="293" r="5" fill="#39ff88" class="blink" style="animation-delay:0.6s"/><text x="148" y="298" font-size="15" class="g">R</text>
+      <text x="210" y="298" font-size="15" class="a b">0</text>
+      <circle cx="286" cy="293" r="6" fill="#f1e05a"/><text x="298" y="298" font-size="14">JavaScript</text>
+      <text x="430" y="298" font-size="17" class="b c">./Github-Actions-Series</text>
+      <text x="430" y="320" font-size="13" class="dim">This is a deep dive series on understanding Github Actions</text>
+    </g><g class="slide" style="animation-delay:1.15s">
+      <rect x="30" y="356" width="1140" height="74" fill="#fff" opacity=".02"/>
+      <text x="44" y="376" font-size="15" class="dim">2011</text>
+      <circle cx="136" cy="371" r="5" fill="#39ff88" class="blink" style="animation-delay:0.8999999999999999s"/><text x="148" y="376" font-size="15" class="g">R</text>
+      <text x="210" y="376" font-size="15" class="a b">0</text>
+      <circle cx="286" cy="371" r="6" fill="#e34c26"/><text x="298" y="376" font-size="14">HTML</text>
+      <text x="430" y="376" font-size="17" class="b c">./Redis</text>
+      <text x="430" y="398" font-size="13" class="dim">This is an end-to-end understanding of what is Redis, how it works and it's</text><text x="430" y="417" font-size="13" class="dim">implementation.</text>
+    </g><text x="40" y="462" font-size="13" class="in" style="animation-delay:1.6s"><tspan class="dim">4 of </tspan><tspan class="g">106</tspan><tspan class="dim"> processes shown · built, shipped, shared</tspan></text>
+  <rect width="1200" height="480" fill="url(#scan)" pointer-events="none"/>
+  <rect class="sweep" width="1200" height="120" fill="url(#sweepG)"/>
+</g>
+<rect x="1" y="1" width="1198" height="478" rx="14" fill="none" stroke="#1b2335" stroke-width="2"/>
+</svg>
