@@ -1,102 +1,105 @@
+<!--
+  ADITYA.OS — self-hosted animated profile. No third-party image services.
+  Every SVG in /assets is regenerated from live GitHub data by .github/workflows/refresh.yml
+-->
+
 <div align="center">
 
-<p><sub>WOW PROFILE · YUVADI29 · LIVE</sub></p>
+<sub><code>ADITYA.OS</code> &nbsp;·&nbsp; <code>yuvadi29</code> &nbsp;·&nbsp; <code>● LIVE</code></sub>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=yuvadi29&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80524895%3Fu%3D636579e668ed8c0fa7a189e2311fe2d3d673ba2c%26v%3D4&variant=living-identity&label=Aditya%20Trivedi&v=wow-living-identity-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=yuvadi29&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80524895%3Fu%3D636579e668ed8c0fa7a189e2311fe2d3d673ba2c%26v%3D4&variant=living-identity&label=Aditya%20Trivedi&v=wow-living-identity-1&mode=dark" width="100%" alt="Aditya Trivedi animated Living Identity portrait and ASCII name" />
-</picture>
-<p><strong>Frontend or full-stack engineer</strong> · Bengaluru</p>
-<p>Educator | Developer | Author | 15k+ Tech Community |</p>
-<p><a href="https://github.com/yuvadi29">GitHub</a> &nbsp;·&nbsp; <a href="https://adityatrivedi.in/">Website</a></p>
+<a href="https://adityatrivedi.in/">
+  <img src="./assets/hero.svg" width="100%" alt="ADITYA.OS boot sequence: Aditya Trivedi, Educator, Developer, Author, 15k+ tech community, Bengaluru" />
+</a>
+
+<p>
+  <a href="https://adityatrivedi.in/"><img alt="website" src="https://img.shields.io/badge/❯_adityatrivedi.in-07090f?style=for-the-badge&labelColor=07090f&color=07090f&logoColor=39ff88" /></a>
+  <a href="https://github.com/yuvadi29?tab=repositories"><img alt="repos" src="https://img.shields.io/badge/❯_ls_~/repos-07090f?style=for-the-badge&labelColor=07090f&color=07090f" /></a>
+  <a href="https://github.com/yuvadi29?tab=followers"><img alt="follow" src="https://img.shields.io/github/followers/yuvadi29?label=%E2%9D%AF%20follow&style=for-the-badge&labelColor=07090f&color=39ff88" /></a>
+  <!-- add your socials here, same style:
+  <a href="https://youtube.com/@YOUR_HANDLE"><img src="https://img.shields.io/badge/❯_youtube-07090f?style=for-the-badge&logo=youtube&logoColor=ff3df2" /></a>
+  <a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/❯_linkedin-07090f?style=for-the-badge&logo=linkedin&logoColor=22d3ee" /></a>
+  <a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/❯_x.com-07090f?style=for-the-badge&logo=x&logoColor=ffffff" /></a>
+  -->
+</p>
+
 </div>
 
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+<h3><code>❯ cat ~/about.md</code></h3>
 
-<h2>Identity, with signal</h2>
-
-<table width="100%" style="display:table;width:100%;table-layout:fixed;">
+<table>
 <tr>
-<td width="62%" valign="top"><p>Educator | Developer | Author | 15k+ Tech Community |</p><p><strong>Focus:</strong> `JavaScript` · `TypeScript` · `CSS`</p><p><sub>Thoughtful collaboration, ambitious products, and useful open source.</sub></p></td>
-<td width="38%" valign="top"><p><code>LIVE SIGNAL</code></p><p><strong>106</strong> repos<br /><strong>40</strong> stars<br /><strong>645</strong> contributions<br /><strong>79</strong> followers</p></td>
+<td width="62%" valign="top">
+
+I teach, I build, and I write about both. I run a **15k+ developer community** and spend most of my time in **JavaScript** and **TypeScript**, turning hard ideas into things people can actually use.
+
+```js
+const aditya = {
+  base:      "Bengaluru, IN",
+  roles:     ["educator", "developer", "author"],
+  shipping:  ["PromptOS", "Second-Brain"],
+  teaching:  ["GitHub Actions", "Redis", "System design"],
+  wantsTo:   "work with people who care about craft, context & shipping the useful version",
+};
+```
+
+</td>
+<td width="38%" valign="top">
+
+<pre>
+<b>process</b>     aditya
+<b>status</b>      ● online
+<b>focus</b>       JS · TS · CSS
+<b>community</b>   15k+ devs
+<b>mode</b>        build → teach → repeat
+<b>coffee</b>      ████████░░ 80%
+</pre>
+
+</td>
 </tr>
 </table>
 
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+<h3><code>❯ htop</code></h3>
 
-<h2>What moves the work</h2>
+<img src="./assets/stats.svg" width="100%" alt="Live GitHub stats: repositories, stars, contributions, followers, streak and weekly commit trend" />
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=yuvadi29&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80524895%3Fu%3D636579e668ed8c0fa7a189e2311fe2d3d673ba2c%26v%3D4&items=JavaScript%3A%3ACurrent%20focus%7CTypeScript%3A%3AIn%20the%20build%20queue%7CCSS%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/highlights?username=yuvadi29&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80524895%3Fu%3D636579e668ed8c0fa7a189e2311fe2d3d673ba2c%26v%3D4&items=JavaScript%3A%3ACurrent%20focus%7CTypeScript%3A%3AIn%20the%20build%20queue%7CCSS%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=dark" width="100%" alt="Aditya Trivedi animated profile highlights" />
-</picture>
+<h3><code>❯ ps aux | grep shipped</code></h3>
 
-<p align="center"><sub>Positioning is useful when the proof is close behind it.</sub></p>
+<img src="./assets/projects.svg" width="100%" alt="Featured projects: PromptOS, Second-Brain, Github-Actions-Series, Redis" />
 
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+<p align="center">
+  <a href="https://github.com/Yuvadi29/PromptOS"><kbd>./PromptOS</kbd></a> &nbsp;
+  <a href="https://github.com/Yuvadi29/Second-Brain"><kbd>./Second-Brain</kbd></a> &nbsp;
+  <a href="https://github.com/Yuvadi29/Github-Actions-Series"><kbd>./Github-Actions-Series</kbd></a> &nbsp;
+  <a href="https://github.com/Yuvadi29/Redis"><kbd>./Redis</kbd></a>
+</p>
 
-<h2>The tools behind the signal</h2>
+<h3><code>❯ pkg install --from-repos</code></h3>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=yuvadi29&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80524895%3Fu%3D636579e668ed8c0fa7a189e2311fe2d3d673ba2c%26v%3D4&variant=wow&v=wow-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=yuvadi29&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80524895%3Fu%3D636579e668ed8c0fa7a189e2311fe2d3d673ba2c%26v%3D4&variant=wow&v=wow-stack-1&mode=dark" width="100%" alt="Aditya Trivedi animated technology stack" />
-</picture>
+<img src="./assets/stack.svg" width="100%" alt="Languages across all repositories, by bytes of code" />
 
-<p align="center"><sub>JavaScript · TypeScript · CSS · SCSS · Java · HTML · C++ · CMake · chosen for the work, not the trend</sub></p>
+<h3><code>❯ tail -f /var/log/commits</code></h3>
 
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+<img src="./assets/heatmap.svg" width="100%" alt="Animated contribution heatmap for the last year" />
 
-<h2>Built, shipped, shared</h2>
+<details>
+<summary><code>❯ sudo cat /etc/secrets</code> &nbsp;<sub>(you found a hidden process)</sub></summary>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=yuvadi29&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80524895%3Fu%3D636579e668ed8c0fa7a189e2311fe2d3d673ba2c%26v%3D4&repos=yuvadi29%2FPromptOS%2Cyuvadi29%2FGithub-Actions-Series%2Cyuvadi29%2FRedis%2Cyuvadi29%2FSecond-Brain&variant=wow&v=wow-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=yuvadi29&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80524895%3Fu%3D636579e668ed8c0fa7a189e2311fe2d3d673ba2c%26v%3D4&repos=yuvadi29%2FPromptOS%2Cyuvadi29%2FGithub-Actions-Series%2Cyuvadi29%2FRedis%2Cyuvadi29%2FSecond-Brain&variant=wow&v=wow-projects-1&mode=dark" width="100%" alt="Aditya Trivedi animated project constellation" />
-</picture>
+<br />
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=yuvadi29&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80524895%3Fu%3D636579e668ed8c0fa7a189e2311fe2d3d673ba2c%26v%3D4&repos=yuvadi29%2FPromptOS%2Cyuvadi29%2FGithub-Actions-Series%2Cyuvadi29%2FRedis%2Cyuvadi29%2FSecond-Brain&variant=wow-timeline&v=wow-timeline-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=yuvadi29&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80524895%3Fu%3D636579e668ed8c0fa7a189e2311fe2d3d673ba2c%26v%3D4&repos=yuvadi29%2FPromptOS%2Cyuvadi29%2FGithub-Actions-Series%2Cyuvadi29%2FRedis%2Cyuvadi29%2FSecond-Brain&variant=wow-timeline&v=wow-timeline-1&mode=dark" width="100%" alt="Aditya Trivedi animated project launch timeline" />
-</picture>
+```diff
++ Permission granted. Welcome, curious one.
++ If you read this far, you're exactly who I like building with.
+- rm -rf ./doubts
++ git commit -m "say hi to aditya" && git push origin friendship
+```
 
-<table width="100%">
-<tr>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/Yuvadi29/PromptOS">PromptOS</a></strong></p><p>PromptOS is a centralized prompt intelligence system that understands, evolves, and adapts across domains. Acting as a Prompt Operating System, it con</p><p><sub>TypeScript · ⭐ 18</sub></p></td>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/Yuvadi29/Github-Actions-Series">Github-Actions-Series</a></strong></p><p>This is a deep dive series on understanding Github Actions</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/Yuvadi29/Redis">Redis</a></strong></p><p>This is an end-to-end understanding of what is Redis, how it works and it's implementation.</p><p><sub>HTML · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/Yuvadi29/Second-Brain">Second-Brain</a></strong></p><p>This is a project which is my personal vault to chat with my knowledge base.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
-</tr>
-</table>
+</details>
 
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
-<h2>Momentum, made visible</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=yuvadi29&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80524895%3Fu%3D636579e668ed8c0fa7a189e2311fe2d3d673ba2c%26v%3D4&variant=wow&v=wow-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=yuvadi29&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80524895%3Fu%3D636579e668ed8c0fa7a189e2311fe2d3d673ba2c%26v%3D4&variant=wow&v=wow-stats-1&mode=dark" width="100%" alt="Aditya Trivedi animated GitHub signal" />
-</picture>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
-<h2>The trail behind the work</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=yuvadi29&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80524895%3Fu%3D636579e668ed8c0fa7a189e2311fe2d3d673ba2c%26v%3D4&variant=wow&v=wow-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=yuvadi29&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80524895%3Fu%3D636579e668ed8c0fa7a189e2311fe2d3d673ba2c%26v%3D4&variant=wow&v=wow-heatmap-1&mode=dark" width="100%" alt="Aditya Trivedi contribution energy field" />
-</picture>
-
-<p align="center"><sub>4 day current streak · 144 active days</sub></p>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+<br />
 
 <div align="center">
-<p><sub>KEEP THE SIGNAL MOVING</sub></p>
-<h2>Make something worth noticing</h2>
-<p>I like working with people who care about craft, context, and shipping the useful version.</p>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=yuvadi29&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80524895%3Fu%3D636579e668ed8c0fa7a189e2311fe2d3d673ba2c%26v%3D4&website=https%3A%2F%2Fadityatrivedi.in%2F&variant=wow&v=wow-social-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=yuvadi29&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F80524895%3Fu%3D636579e668ed8c0fa7a189e2311fe2d3d673ba2c%26v%3D4&website=https%3A%2F%2Fadityatrivedi.in%2F&variant=wow&v=wow-social-1&mode=dark" width="100%" alt="Aditya Trivedi contact links" />
-</picture>
-<p><a href="https://github.com/yuvadi29">GitHub</a> &nbsp;·&nbsp; <a href="https://adityatrivedi.in/">Website</a></p>
-<p><sub>Aditya Trivedi · Wow Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+  <a href="https://adityatrivedi.in/">
+    <img src="./assets/contact.svg" width="100%" alt="ssh hello@adityatrivedi.in — make something worth noticing" />
+  </a>
+  <sub><code>ADITYA.OS</code> · rebuilt every 6 hours from live GitHub data · <code>exit 0</code></sub>
 </div>
